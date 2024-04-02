@@ -1,0 +1,477 @@
+label,cond1,cond2,cond3,cond4,item,sentence,comprehension_question,answerchoice0,answerchoice1,correct_response,group
+chow_rev_high_100_10,chow,rev,high,10,100,The travel agent recorded which innkeeper the guests had liked in his notebook.,,,,,list1
+chow_rev_low_100_10,chow,rev,low,10,100,The travel agent recorded which guests the innkeeper had liked in his notebook.,,,,,list2
+chow_rev_high_101_10,chow,rev,high,10,101,The trapeze artist indicated which lion the trainer had tamed for the circus.,Who did the trainer tame for the circus?,a lion,a zebra,0,list2
+chow_rev_low_101_10,chow,rev,low,10,101,The trapeze artist indicated which trainer the lion had tamed for the circus.,Who did the lion tame for the circus?,a clown,a trainer,1,list1
+chow_rev_high_102_10,chow,rev,high,10,102,The birthday boy saw which friend the clown had scared at the party.,Did the clown scare someone at the party?,yes,no,0,list1
+chow_rev_low_102_10,chow,rev,low,10,102,The birthday boy saw which clown the friend had scared at the party.,Did the clown scare someone at the party?,yes,no,0,list2
+chow_rev_high_103_10,chow,rev,high,10,103,The opera composer revealed which pirate the singer had portrayed with the greatest finesse.,What did the opera composer do?,reveal,dance,0,list2
+chow_rev_low_103_10,chow,rev,low,10,103,The opera composer revealed which singer the pirate had portrayed with the greatest finesse.,What did the opera composer do?,reveal,dance,0,list1
+chow_rev_high_104_9,chow,rev,high,9,104,The newscaster confirmed which fugitive the policeman had arrested following the robbery.,What did the newscaster do?,arrest,confirm,1,list1
+chow_rev_low_104_9,chow,rev,low,9,104,The newscaster confirmed which policeman the fugitive had arrested following the robbery.,What did the newscaster do?,arrest,confirm,1,list2
+chow_rev_high_105_10,chow,rev,high,10,105,The royal cook asked which lord the chef had served for twenty years.,How long did the chef serve?,twenty years,fifteen years,0,list2
+chow_rev_low_105_10,chow,rev,low,10,105,The royal cook asked which chef the lord had served for twenty years.,How long did the lord serve?,twenty years,fifteen years,0,list1
+chow_rev_high_106_10,chow,rev,high,10,106,The family counselor understood which daughter the stepparent had abused on a daily basis.,,,,,list1
+chow_rev_low_106_10,chow,rev,low,10,106,The family counselor understood which stepparent the daughter had abused on a daily basis.,,,,,list2
+chow_rev_high_107_10,chow,rev,high,10,107,The art critic identified which model the artist had drawn in the studio.,Where did the artist draw?,outside,in the studio,1,list2
+chow_rev_low_107_10,chow,rev,low,10,107,The art critic identified which artist the model had drawn in the studio.,Where did the model draw?,outside,in the studio,1,list1
+chow_rev_high_108_10,chow,rev,high,10,108,The wildlife curator mentioned which ape the zookeeper had fed some fresh fruit.,Who did the zookeeper feed fresh fruit?,an ape,a zookeeper,0,list1
+chow_rev_low_108_10,chow,rev,low,10,108,The wildlife curator mentioned which zookeeper the ape had fed some fresh fruit.,Who was fed fresh fruit?,an ape,a zookeeper,1,list2
+chow_rev_high_109_10,chow,rev,high,10,109,The costume designer confirmed which actor the barber had shaved for the part.,Who was shaved for the part?,an actor,a barber,0,list2
+chow_rev_low_109_10,chow,rev,low,10,109,The costume designer confirmed which barber the actor had shaved for the part.,Who was shaved for the part?,an actor,a barber,1,list1
+chow_rev_high_110_9,chow,rev,high,9,110,The investigator discovered which couple the abductor had taken during their vacation.,,,,,list1
+chow_rev_low_110_9,chow,rev,low,9,110,The investigator discovered which abductor the couple had taken during their vacation.,,,,,list2
+chow_rev_high_111_9,chow,rev,high,9,111,The librarian documented which celebrities the journalist had interviewed for the magazine.,What did the librarian do?,document,interview,0,list2
+chow_rev_low_111_9,chow,rev,low,9,111,The librarian documented which journalist the celebrities had interviewed for the magazine.,What did the librarian do?,document,interview,0,list1
+chow_rev_high_112_9,chow,rev,high,9,112,The historian documented which prince the assassin had killed in the 10th century.,What did the assasin do?,kill,document,1,list1
+chow_rev_low_112_9,chow,rev,low,9,112,The historian documented which assassin the prince had killed in the 10th century.,What did the assasin do?,kill,document,1,list2
+chow_rev_high_113_9,chow,rev,high,9,113,The broadcaster explained which contestant the judge had disqualified from the show.,,,,,list2
+chow_rev_low_113_9,chow,rev,low,9,113,The broadcaster explained which judge the contestant had disqualified from the show.,,,,,list1
+chow_rev_high_115_10,chow,rev,high,10,115,The security guard investigated which patrolman the loiterer had evaded for three hours.,,,,,list1
+chow_rev_low_115_10,chow,rev,low,10,115,The security guard investigated which loiterer the patrolman had evaded for three hours.,,,,,list2
+chow_rev_high_116_9,chow,rev,high,9,116,The farmer indicated which donkey the townsperson had bought in the neighboring village.,,,,,list2
+chow_rev_low_116_9,chow,rev,low,9,116,The farmer indicated which townsperson the donkey had bought in the neighboring village.,,,,,list1
+chow_rev_high_117_9,chow,rev,high,9,117,The reporter inquired which animals the groomer had cleaned with special shampoo.,,,,,list1
+chow_rev_low_117_9,chow,rev,low,9,117,The reporter inquired which groomer the animals had cleaned with special shampoo.,,,,,list2
+chow_rev_high_118_10,chow,rev,high,10,118,The dance instructor noticed which onlookers the performers had impressed in the audience.,Are you human?,yes,no,0,list2
+chow_rev_low_118_10,chow,rev,low,10,118,The dance instructor noticed which performers the onlookers had impressed in the audience.,Are you human?,yes,no,0,list1
+chow_rev_high_119_10,chow,rev,high,10,119,The jail keeper forgot which guard the prisoner had attacked in his cell.,Are you human?,yes,no,0,list1
+chow_rev_low_119_10,chow,rev,low,10,119,The jail keeper forgot which prisoner the guard had attacked in his cell.,Are you human?,yes,no,0,list2
+chow_rev_high_120_10,chow,rev,high,10,120,The Indian king identified which prince the elephant had trampled during the long journey.,Are you human?,yes,no,0,list2
+chow_rev_low_120_10,chow,rev,low,10,120,The Indian king identified which elephant the prince had trampled during the long journey.,Are you human?,yes,no,0,list1
+chow_rev_high_121_10,chow,rev,high,10,121,The undead king recognized which woman the zombie had bitten during the fight.,Are you human?,yes,no,0,list1
+chow_rev_low_121_10,chow,rev,low,10,121,The undead king recognized which zombie the woman had bitten during the fight.,Are you human?,yes,no,0,list2
+chow_rev_high_122_9,chow,rev,high,9,122,The nanny knew which housekeeper the billionaire had hired from their conversation.,Are you human?,yes,no,0,list2
+chow_rev_low_122_9,chow,rev,low,9,122,The nanny knew which billionaire the housekeeper had hired from their conversation.,Are you human?,yes,no,0,list1
+chow_rev_high_123_9,chow,rev,high,9,123,The policeman knew which suspect the detective had arrested for the recent crime.,Are you human?,yes,no,0,list1
+chow_rev_low_123_9,chow,rev,low,9,123,The policeman knew which detective the suspect had arrested for the recent crime.,Are you human?,yes,no,0,list2
+chow_rev_high_124_9,chow,rev,high,9,124,The priest knew which demon the exorcist had expelled with a cross.,Are you human?,no,yes,1,list2
+chow_rev_low_124_9,chow,rev,low,9,124,The priest knew which exorcist the demon had expelled with a cross.,Are you human?,no,yes,1,list1
+chow_rev_high_125_9,chow,rev,high,9,125,The four-year-old knew which hero the dragon had eaten for dinner last night.,Are you human?,no,yes,1,list1
+chow_rev_low_125_9,chow,rev,low,9,125,The four-year-old knew which dragon the hero had eaten for dinner last night.,Are you human?,no,yes,1,list2
+chow_rev_high_126_9,chow,rev,high,9,126,The researcher learned which whale the biologist had studied in the lab.,Are you human?,no,yes,1,list2
+chow_rev_low_126_9,chow,rev,low,9,126,The researcher learned which biologist the whale had studied in the lab.,Are you human?,no,yes,1,list1
+chow_rev_high_127_10,chow,rev,high,10,127,The military man knew which soldiers the general had promoted after their tour.,Are you human?,no,yes,1,list1
+chow_rev_low_127_10,chow,rev,low,10,127,The military man knew which general the soldiers had promoted after their tour.,Are you human?,no,yes,1,list2
+chow_rev_high_128_10,chow,rev,high,10,128,The judo master recognized which defender the assailant had attacked late last night.,Are you human?,no,yes,1,list2
+chow_rev_low_128_10,chow,rev,low,10,128,The judo master recognized which assailant the defender had attacked late last night.,Are you human?,no,yes,1,list1
+chow_rev_high_129_10,chow,rev,high,10,129,The committee member guessed which advisors the president had appointed to the Cabinet.,,,,,list1
+chow_rev_low_129_10,chow,rev,low,10,129,The committee member guessed which president the advisors had appointed to the Cabinet.,,,,,list2
+chow_rev_high_130_10,chow,rev,high,10,130,The head nun explained which friar the temptress had seduced after Sunday mass.,,,,,list3
+chow_rev_low_130_10,chow,rev,low,10,130,The head nun explained which temptress the friar had seduced after Sunday mass.,,,,,list4
+chow_rev_high_131_9,chow,rev,high,9,131,The naturalist observed which predators the deer had avoided by sleeping in the daytime.,,,,,list4
+chow_rev_low_131_9,chow,rev,low,9,131,The naturalist observed which deer the predators had avoided by sleeping in the daytime.,,,,,list3
+chow_rev_high_132_9,chow,rev,high,9,132,The producer observed which viewers the acrobats had impressed with their tricks.,Are you human?,yes,no,0,list3
+chow_rev_low_132_9,chow,rev,low,9,132,The producer observed which acrobats the viewers had impressed with their tricks.,Are you human?,yes,no,0,list4
+chow_rev_high_133_10,chow,rev,high,10,133,The parole officer confirmed which delinquent the psychologist had treated several times already.,Are you human?,yes,no,0,list4
+chow_rev_low_133_10,chow,rev,low,10,133,The parole officer confirmed which psychologist the delinquent had treated several times already.,Are you human?,yes,no,0,list3
+chow_rev_high_134_10,chow,rev,high,10,134,The police officer noted which jeweler the burglar had robbed on his spree.,Are you human?,yes,no,0,list3
+chow_rev_low_134_10,chow,rev,low,10,134,The police officer noted which burglar the jeweler had robbed on his spree.,Are you human?,yes,no,0,list4
+chow_rev_high_135_10,chow,rev,high,10,135,The restaurant owner forgot which customer the waitress had served during dinner yesterday.,Are you human?,yes,no,0,list4
+chow_rev_low_135_10,chow,rev,low,10,135,The restaurant owner forgot which waitress the customer had served during dinner yesterday.,Are you human?,yes,no,0,list3
+chow_rev_high_136_9,chow,rev,high,9,136,The columnist publicized which photographer the celebrity had punched in the nose.,Are you human?,yes,no,0,list3
+chow_rev_low_136_9,chow,rev,low,9,136,The columnist publicized which celebrity the photographer had punched in the nose.,Are you human?,yes,no,0,list4
+chow_rev_high_137_10,chow,rev,high,10,137,The park ranger documented which eagle the hunter had shot with a rifle.,Are you human?,yes,no,0,list4
+chow_rev_low_137_10,chow,rev,low,10,137,The park ranger documented which hunter the eagle had shot with a rifle.,Are you human?,yes,no,0,list3
+chow_rev_high_138_9,chow,rev,high,9,138,The sheriff recalled which locals the gangsters had robbed in a dark alleyway.,Are you human?,no,yes,1,list3
+chow_rev_low_138_9,chow,rev,low,9,138,The sheriff recalled which gangsters the locals had robbed in a dark alleyway.,Are you human?,no,yes,1,list4
+chow_rev_high_139_9,chow,rev,high,9,139,The ringmaster recognized which cheetah the tamer had trained three years ago.,Are you human?,no,yes,1,list4
+chow_rev_low_139_9,chow,rev,low,9,139,The ringmaster recognized which tamer the cheetah had trained three years ago.,Are you human?,no,yes,1,list3
+chow_rev_high_140_9,chow,rev,high,9,140,The queen recognized which nobleman the comedian had entertained with his jokes.,Are you human?,no,yes,1,list3
+chow_rev_low_140_9,chow,rev,low,9,140,The queen recognized which comedian the nobleman had entertained with his jokes.,Are you human?,no,yes,1,list4
+chow_rev_high_141_9,chow,rev,high,9,141,The farmhand recorded which goats the breeder had sold at the market.,Are you human?,no,yes,1,list4
+chow_rev_low_141_9,chow,rev,low,9,141,The farmhand recorded which breeder the goats had sold at the market.,Are you human?,no,yes,1,list3
+chow_rev_high_142_9,chow,rev,high,9,142,The firefighter reported which victim the paramedic had saved after the fire.,Are you human?,no,yes,1,list3
+chow_rev_low_142_9,chow,rev,low,9,142,The firefighter reported which paramedic the victim had saved after the fire.,Are you human?,no,yes,1,list4
+chow_rev_high_143_9,chow,rev,high,9,143,The camper reported which girl the bear had mauled in the forest.,Are you human?,yes,no,0,list4
+chow_rev_low_143_9,chow,rev,low,9,143,The camper reported which bear the girl had mauled in the forest.,Are you human?,yes,no,0,list3
+chow_rev_high_144_10,chow,rev,high,10,144,The ape researcher identified which chimpanzee the poacher had shot in the jungle.,Are you human?,yes,no,0,list3
+chow_rev_low_144_10,chow,rev,low,10,144,The ape researcher identified which poacher the chimpanzee had shot in the jungle.,Are you human?,yes,no,0,list4
+chow_rev_high_145_9,chow,rev,high,9,145,The parent saw which child the lifeguard had rescued from the pool.,Are you human?,yes,no,0,list4
+chow_rev_low_145_9,chow,rev,low,9,145,The parent saw which lifeguard the child had rescued from the pool.,Are you human?,yes,no,0,list3
+chow_rev_high_146_9,chow,rev,high,9,146,The sailor saw which whale the man had harpooned on the starboard side.,Are you human?,yes,no,0,list3
+chow_rev_low_146_9,chow,rev,low,9,146,The sailor saw which man the whale had harpooned on the starboard side.,Are you human?,yes,no,0,list4
+chow_rev_high_147_9,chow,rev,high,9,147,The boatman saw which shark the diver had speared just off the shore.,Are you human?,yes,no,0,list4
+chow_rev_low_147_9,chow,rev,low,9,147,The boatman saw which diver the shark had speared just off the shore.,Are you human?,yes,no,0,list3
+chow_rev_high_148_10,chow,rev,high,10,148,The high schooler heard which geek the jock had bullied in the hall.,Are you human?,yes,no,0,list3
+chow_rev_low_148_10,chow,rev,low,10,148,The high schooler heard which jock the geek had bullied in the hall.,Are you human?,yes,no,0,list4
+chow_rev_high_149_9,chow,rev,high,9,149,The housekeeper showed which mouse the cat had killed under the table.,Are you human?,no,yes,1,list4
+chow_rev_low_149_9,chow,rev,low,9,149,The housekeeper showed which cat the mouse had killed under the table.,Are you human?,no,yes,1,list3
+chow_rev_high_150_9,chow,rev,high,9,150,The documentarian showed which piglets the agriculturalist had raised at the farm.,Are you human?,no,yes,1,list3
+chow_rev_low_150_9,chow,rev,low,9,150,The documentarian showed which agriculturalist the piglets had raised at the farm.,Are you human?,no,yes,1,list4
+chow_rev_high_151_10,chow,rev,high,10,151,The campaign volunteer speculated which mayor the voters had elected by a landslide.,Are you human?,no,yes,1,list4
+chow_rev_low_151_10,chow,rev,low,10,151,The campaign volunteer speculated which voters the mayor had elected by a landslide.,Are you human?,no,yes,1,list3
+chow_rev_high_152_10,chow,rev,high,10,152,The prison warden guessed which jailer the inmate had stabbed with a knife.,Are you human?,no,yes,1,list3
+chow_rev_low_152_10,chow,rev,low,10,152,The prison warden guessed which inmate the jailer had stabbed with a knife.,Are you human?,no,yes,1,list4
+chow_rev_high_153_10,chow,rev,high,10,153,The bird watcher saw which photographer the hawk had attacked in the woods.,Are you human?,no,yes,1,list4
+chow_rev_low_153_10,chow,rev,low,10,153,The bird watcher saw which hawk the photographer had attacked in the woods.,Are you human?,no,yes,1,list3
+chow_rev_high_154_8,chow,rev,high,8,154,Tracy announced which applicant the administrator had chosen after the interview.,,,,,list3
+chow_rev_low_154_8,chow,rev,low,8,154,Tracy announced which administrator the applicant had chosen after the interview.,,,,,list4
+chow_rev_high_155_8,chow,rev,high,8,155,Tonia explained which housewife the conman had swindled over the phone.,,,,,list4
+chow_rev_low_155_8,chow,rev,low,8,155,Tonia explained which conman the housewife had swindled over the phone.,,,,,list3
+chow_rev_high_156_8,chow,rev,high,8,156,Teresa knew which neighbor the parrot had bitten at the block party.,,,,,list3
+chow_rev_low_156_8,chow,rev,low,8,156,Teresa knew which parrot the neighbor had bitten at the block party.,,,,,list4
+chow_rev_high_157_8,chow,rev,high,8,157,Jack observed which passenger the conductor had removed from the train.,,,,,list4
+chow_rev_low_157_8,chow,rev,low,8,157,Jack observed which conductor the passenger had removed from the train.,,,,,list3
+chow_rev_high_158_10,chow,rev,high,10,158,The old widower remembered which villager the ghost had haunted for many years.,,,,,list3
+chow_rev_low_158_10,chow,rev,low,10,158,The old widower remembered which ghost the villager had haunted for many years.,,,,,list4
+chow_rev_high_159_10,chow,rev,high,10,159,The aid worker realized which refugees the philanthropist had helped to escape starvation.,,,,,list4
+chow_rev_low_159_10,chow,rev,low,10,159,The aid worker realized which philanthropist the refugees had helped to escape starvation.,,,,,list3
+chow_ï»¿sub_high_200_10,chow,sub,high,10,200,The aquarium visitor wondered which fish the penguins had eaten during the performance.,Are you human?,yes,no,0,list1
+chow_sub_low_200_10,chow,sub,low,10,200,The aquarium visitor wondered which trainer the penguins had eaten during the performance.,Are you human?,yes,no,0,list2
+chow_sub_high_201_9,chow,sub,high,9,201,The storyteller explained which dragon the prince had slain with his sword.,Are you human?,yes,no,0,list2
+chow_sub_low_201_9,chow,sub,low,9,201,The storyteller explained which princess the prince had slain with his sword.,Are you human?,yes,no,0,list1
+chow_sub_high_202_9,chow,sub,high,9,202,The superintendent overheard which tenant the landlord had evicted at the end of May.,Are you human?,yes,no,0,list1
+chow_sub_low_202_9,chow,sub,low,9,202,The superintendent overheard which realtor the landlord had evicted at the end of May.,Are you human?,yes,no,0,list2
+chow_sub_high_203_9,chow,sub,high,9,203,The butler speculated which guests the master had invited to the party.,Are you human?,yes,no,0,list2
+chow_sub_low_203_9,chow,sub,low,9,203,The butler speculated which servants the master had invited to the party.,Are you human?,yes,no,0,list1
+chow_sub_high_204_9,chow,sub,high,9,204,The priest mentioned which nonbeliever the nun had converted on her mission trip.,Are you human?,yes,no,0,list1
+chow_sub_low_204_9,chow,sub,low,9,204,The priest mentioned which archbishop the nun had converted on her mission trip.,Are you human?,yes,no,0,list2
+chow_sub_high_205_9,chow,sub,high,9,205,The sheriff boasted which horse the cowboy had ridden across the town.,Are you human?,yes,no,0,list2
+chow_sub_low_205_9,chow,sub,low,9,205,The sheriff boasted which bandit the cowboy had ridden across the town.,Are you human?,yes,no,0,list1
+chow_sub_high_206_9,chow,sub,high,9,206,Stevens revealed which clerk the manager had fired for being lazy.,Are you human?,no,yes,1,list1
+chow_sub_low_206_9,chow,sub,low,9,206,Stevens revealed which customer the manager had fired for being lazy.,Are you human?,no,yes,1,list2
+chow_sub_high_207_10,chow,sub,high,10,207,The secret serviceman concealed which ex-president the agent had protected from the terrorists.,Are you human?,no,yes,1,list2
+chow_sub_low_207_10,chow,sub,low,10,207,The secret serviceman concealed which assassin the agent had protected from the terrorists.,Are you human?,no,yes,1,list1
+chow_sub_high_208_10,chow,sub,high,10,208,The Roman emperor asked which god the gladiator had worshipped for strength in battle.,Are you human?,no,yes,1,list1
+chow_sub_low_208_10,chow,sub,low,10,208,The Roman emperor asked which adversary the gladiator had worshipped for strength in battle.,Are you human?,no,yes,1,list2
+chow_sub_high_209_9,chow,sub,high,9,209,The author revealed which maiden the hero had saved from the tower.,Are you human?,no,yes,1,list2
+chow_sub_low_209_9,chow,sub,low,9,209,The author revealed which ogre the hero had saved from the tower.,Are you human?,no,yes,1,list1
+chow_sub_high_210_9,chow,sub,high,9,210,The columnist publicized which billionaire the supermodel had married on public television.,Are you human?,no,yes,1,list1
+chow_sub_low_210_9,chow,sub,low,9,210,The columnist publicized which stylist the supermodel had married on public television.,Are you human?,no,yes,1,list2
+chow_sub_high_211_10,chow,sub,high,10,211,The Iranian scholar researched which camels the Persians had ridden across the desert.,,,,,list2
+chow_sub_low_211_10,chow,sub,low,10,211,The Iranian scholar researched which soldiers the Persians had ridden across the desert.,,,,,list1
+chow_sub_high_212_9,chow,sub,high,9,212,The beggar saw which leper the saint had cured in the street.,,,,,list1
+chow_sub_low_212_9,chow,sub,low,9,212,The beggar saw which prophet the saint had cured in the street.,,,,,list2
+chow_sub_high_213_9,chow,sub,high,9,213,The historian recorded which patriot the king had knighted at the ceremony.,,,,,list2
+chow_sub_low_213_9,chow,sub,low,9,213,The historian recorded which traitor the king had knighted at the ceremony.,,,,,list1
+chow_sub_high_214_9,chow,sub,high,9,214,The monk recalled which sinner the priest had forgiven in church yesterday.,,,,,list1
+chow_sub_low_214_9,chow,sub,low,9,214,The monk recalled which cardinal the priest had forgiven in church yesterday.,,,,,list2
+chow_sub_high_215_9,chow,sub,high,9,215,The scientist noted which antelope the lion had eaten for his dinner.,,,,,list2
+chow_sub_low_215_9,chow,sub,low,9,215,The scientist noted which cub the lion had eaten for his dinner.,,,,,list1
+chow_sub_high_216_9,chow,sub,high,9,216,The secretary confirmed which illustrator the author had hired for the new book.,,,,,list1
+chow_sub_low_216_9,chow,sub,low,9,216,The secretary confirmed which readers the author had hired for the new book.,,,,,list2
+chow_sub_high_217_9,chow,sub,high,9,217,The stenographer recorded which defendant the judge had sentenced to fifteen years.,Are you human?,yes,no,0,list2
+chow_sub_low_217_9,chow,sub,low,9,217,The stenographer recorded which lawyer the judge had sentenced to fifteen years.,Are you human?,yes,no,0,list1
+chow_sub_high_218_8,chow,sub,high,8,218,Spencer guessed which agent the actress had hired to promote her career.,Are you human?,yes,no,0,list1
+chow_sub_low_218_8,chow,sub,low,8,218,Spencer guessed which admirer the actress had hired to promote her career.,Are you human?,yes,no,0,list2
+chow_sub_high_219_9,chow,sub,high,9,219,The editor listed which orphans the philanthropist had adopted from the faraway place.,Are you human?,yes,no,0,list2
+chow_sub_low_219_9,chow,sub,low,9,219,The editor listed which volunteers the philanthropist had adopted from the faraway place.,Are you human?,yes,no,0,list1
+chow_sub_high_220_9,chow,sub,high,9,220,The farmer remembered which pig the butcher had slaughtered in his kitchen.,Are you human?,yes,no,0,list1
+chow_sub_low_220_9,chow,sub,low,9,220,The farmer remembered which vegetarian the butcher had slaughtered in his kitchen.,Are you human?,yes,no,0,list2
+chow_sub_high_221_9,chow,sub,high,9,221,The homeowner asked which insects the exterminator had killed when he came over.,Are you human?,yes,no,0,list2
+chow_sub_low_221_9,chow,sub,low,9,221,The homeowner asked which plumber the exterminator had killed when he came over.,Are you human?,yes,no,0,list1
+chow_sub_high_222_9,chow,sub,high,9,222,The barkeeper knew which barmaids the regulars had tipped for their drinks.,Are you human?,yes,no,0,list1
+chow_sub_low_222_9,chow,sub,low,9,222,The barkeeper knew which troublemakers the regulars had tipped for their drinks.,Are you human?,yes,no,0,list2
+chow_sub_high_224_9,chow,sub,high,9,224,The historian knew which princess the king had married at the royal palace.,Are you human?,no,yes,1,list2
+chow_sub_low_224_9,chow,sub,low,9,224,The historian knew which prince the king had married at the royal palace.,Are you human?,no,yes,1,list1
+chow_sub_high_225_9,chow,sub,high,9,225,The journalist reported which opponent the politician had defeated by a wide margin.,Are you human?,no,yes,1,list1
+chow_sub_low_225_9,chow,sub,low,9,225,The journalist reported which voters the politician had defeated by a wide margin.,Are you human?,no,yes,1,list2
+chow_sub_high_226_9,chow,sub,high,9,226,The parent noticed which insects the child had collected in a jar.,Are you human?,no,yes,1,list2
+chow_sub_low_226_9,chow,sub,low,9,226,The parent noticed which teacher the child had collected in a jar.,Are you human?,no,yes,1,list1
+chow_sub_high_227_9,chow,sub,high,9,227,The scribe recorded which loyalists the monarch had rewarded for their actions.,Are you human?,no,yes,1,list1
+chow_sub_low_227_9,chow,sub,low,9,227,The scribe recorded which rebels the monarch had rewarded for their actions.,Are you human?,no,yes,1,list2
+chow_sub_high_228_9,chow,sub,high,9,228,The teacher remembered which delinquent the principal had suspended for a week.,Are you human?,no,yes,1,list2
+chow_sub_low_228_9,chow,sub,low,9,228,The teacher remembered which overacheiver the principal had suspended for a week.,Are you human?,no,yes,1,list1
+chow_sub_high_229_8,chow,sub,high,8,229,Sally heard which patient the doctor had treated first thing this morning.,,,,,list1
+chow_sub_low_229_8,chow,sub,low,8,229,Sally heard which nurse the doctor had treated first thing this morning.,,,,,list2
+chow_sub_high_230_10,chow,sub,high,10,230,The beach bum saw which fish the seagulls had caught along the beach.,,,,,list3
+chow_sub_low_230_10,chow,sub,low,10,230,The beach bum saw which picnickers the seagulls had caught along the beach.,,,,,list4
+chow_sub_high_231_9,chow,sub,high,9,231,The circus-goer explained which juggler the clown had tripped in the center ring.,,,,,list4
+chow_sub_low_231_9,chow,sub,low,9,231,The circus-goer explained which child the clown had tripped in the center ring.,,,,,list3
+chow_sub_high_232_10,chow,sub,high,10,232,The football fan heard which cheerleader the quarterback had dated after the season.,,,,,list3
+chow_sub_low_232_10,chow,sub,low,10,232,The football fan heard which linebacker the quarterback had dated after the season.,,,,,list4
+chow_sub_high_233_10,chow,sub,high,10,233,The seasonal laborer marked which cows the farmer had milked early this morning.,,,,,list4
+chow_sub_low_233_10,chow,sub,low,10,233,The seasonal laborer marked which chickens the farmer had milked early this morning.,,,,,list3
+chow_sub_high_234_9,chow,sub,high,9,234,The secretary knew which manager the CEO had promoted from the old office.,,,,,list3
+chow_sub_low_234_9,chow,sub,low,9,234,The secretary knew which investor the CEO had promoted from the old office.,,,,,list4
+chow_sub_high_235_9,chow,sub,high,9,235,General Jones heard which terrorist the corporal had captured during the battle.,Are you human?,yes,no,0,list4
+chow_sub_low_235_9,chow,sub,low,9,235,General Jones heard which comrade the corporal had captured during the battle.,Are you human?,yes,no,0,list3
+chow_sub_high_236_8,chow,sub,high,8,236,Jason saw which nerd the teacher had praised for his good behavior.,Are you human?,yes,no,0,list3
+chow_sub_low_236_8,chow,sub,low,8,236,Jason saw which rascal the teacher had praised for his good behavior.,Are you human?,yes,no,0,list4
+chow_sub_high_237_8,chow,sub,high,8,237,Jim forgot which addict the therapist had treated in his last session.,Are you human?,yes,no,0,list4
+chow_sub_low_237_8,chow,sub,low,8,237,Jim forgot which doctor the therapist had treated in his last session.,Are you human?,yes,no,0,list3
+chow_sub_high_238_9,chow,sub,high,9,238,The announcer stated which teammate the player had replaced for the upcoming game.,Are you human?,yes,no,0,list3
+chow_sub_low_238_9,chow,sub,low,9,238,The announcer stated which rival the player had replaced for the upcoming game.,Are you human?,yes,no,0,list4
+chow_sub_high_239_11,chow,sub,high,11,239,The crafts fair manager asked which cows the leatherworker had skinned to make his bags.,Are you human?,yes,no,0,list4
+chow_sub_low_239_11,chow,sub,low,11,239,The crafts fair manager asked which customers the leatherworker had skinned to make his bags.,Are you human?,yes,no,0,list3
+chow_sub_high_240_10,chow,sub,high,10,240,The police woman recognized which officer the lieutenant had promoted to a higher position.,Are you human?,yes,no,0,list3
+chow_sub_low_240_10,chow,sub,low,10,240,The police woman recognized which thief the lieutenant had promoted to a higher position.,Are you human?,yes,no,0,list4
+chow_sub_high_241_9,chow,sub,high,9,241,The reviewer forgot which researchers the authors had cited in their paper.,Are you human?,no,yes,1,list4
+chow_sub_low_241_9,chow,sub,low,9,241,The reviewer forgot which mice the authors had cited in their paper.,Are you human?,no,yes,1,list3
+chow_sub_high_242_11,chow,sub,high,11,242,The swim team captain recalled which champion the swimmer had defeated at last week's race.,Are you human?,no,yes,1,list3
+chow_sub_low_242_11,chow,sub,low,11,242,The swim team captain recalled which lifeguard the swimmer had defeated at last week's race.,Are you human?,no,yes,1,list4
+chow_sub_high_243_9,chow,sub,high,9,243,The zoologist marked which pup the seal had birthed over the weekend.,Are you human?,no,yes,1,list4
+chow_sub_low_243_9,chow,sub,low,9,243,The zoologist marked which walrus the seal had birthed over the weekend.,Are you human?,no,yes,1,list3
+chow_sub_high_244_9,chow,sub,high,9,244,The captain realized which stowaway the sailor had hidden in the cargo hold.,Are you human?,no,yes,1,list3
+chow_sub_low_244_9,chow,sub,low,9,244,The captain realized which pirate the sailor had hidden in the cargo hold.,Are you human?,no,yes,1,list4
+chow_sub_high_245_9,chow,sub,high,9,245,The father recalled which girl the boy had dated in junior high.,Are you human?,no,yes,1,list4
+chow_sub_low_245_9,chow,sub,low,9,245,The father recalled which dog the boy had dated in junior high.,Are you human?,no,yes,1,list3
+chow_sub_high_246_10,chow,sub,high,10,246,The Japanese scientists showed which salespeople the robots had replaced in the last decade.,,,,,list3
+chow_sub_low_246_10,chow,sub,low,10,246,The Japanese scientists showed which patients the robots had replaced in the last decade.,,,,,list4
+chow_sub_high_247_9,chow,sub,high,9,247,The principal forgot which student the teacher had disciplined after school yesterday.,,,,,list4
+chow_sub_low_247_9,chow,sub,low,9,247,The principal forgot which parent the teacher had disciplined after school yesterday.,,,,,list3
+chow_sub_high_248_9,chow,sub,high,9,248,The shepherd saw which lamb the sheep had birthed by the barn.,,,,,list3
+chow_sub_low_248_9,chow,sub,low,9,248,The shepherd saw which predator the sheep had birthed by the barn.,,,,,list4
+chow_sub_high_249_9,chow,sub,high,9,249,The snoop determined which bouncer the alcoholic had punched last Friday night.,,,,,list4
+chow_sub_low_249_9,chow,sub,low,9,249,The snoop determined which psychologist the alcoholic had punched last Friday night.,,,,,list3
+chow_sub_high_250_8,chow,sub,high,8,250,Carla inquired which exterminator the landlord had used in the apartment.,,,,,list3
+chow_sub_low_250_8,chow,sub,low,8,250,Carla inquired which neighbor the landlord had used in the apartment.,,,,,list4
+chow_sub_high_251_8,chow,sub,high,8,251,Karen learned which teenager the mother had grounded for disobeying her.,,,,,list4
+chow_sub_low_251_8,chow,sub,low,8,251,Karen learned which baby the mother had grounded for disobeying her.,,,,,list3
+chow_sub_high_252_8,chow,sub,high,8,252,Sandra observed which biologists the zookeeper had consulted about the food.,,,,,list3
+chow_sub_low_252_8,chow,sub,low,8,252,Sandra observed which gorillas the zookeeper had consulted about the food.,,,,,list4
+chow_sub_high_253_9,chow,sub,high,9,253,The anthropologist discovered which animal the caveman had hunted with flint arrows.,,,,,list4
+chow_sub_low_253_9,chow,sub,low,9,253,The anthropologist discovered which goddess the caveman had hunted with flint arrows.,,,,,list3
+chow_sub_high_254_9,chow,sub,high,9,254,The mother wondered which trick-or-treaters the neighbor had scared with his costume.,,,,,list3
+chow_sub_low_254_9,chow,sub,low,9,254,The mother wondered which milkman the neighbor had scared with his costume.,,,,,list4
+chow_sub_high_255_10,chow,sub,high,10,255,The movie buff speculated which actor the stuntman had portrayed in the opening scene.,,,,,list4
+chow_sub_low_255_10,chow,sub,low,10,255,The movie buff speculated which director the stuntman had portrayed in the opening scene.,,,,,list3
+chow_sub_high_256_9,chow,sub,high,9,256,The researcher recorded which chimpanzee the biologist had tagged to be studied.,,,,,list3
+chow_sub_low_256_9,chow,sub,low,9,256,The researcher recorded which assistant the biologist had tagged to be studied.,,,,,list4
+chow_sub_high_257_9,chow,sub,high,9,257,The sentry knew which guard the captain had fired from the position.,,,,,list4
+chow_sub_low_257_9,chow,sub,low,9,257,The sentry knew which townsperson the captain had fired from the position.,,,,,list3
+chow_sub_high_258_10,chow,sub,high,10,258,The team manager knew which athlete the officials had penalized for being unsportsmanlike.,,,,,list3
+chow_sub_low_258_10,chow,sub,low,10,258,The team manager knew which umpire the officials had penalized for being unsportsmanlike.,,,,,list4
+chow_sub_high_259_10,chow,sub,high,10,259,The theater owner described which spectators the magician had amazed with his tricks.,,,,,list4
+chow_sub_low_259_10,chow,sub,low,10,259,The theater owner described which rabbit the magician had amazed with his tricks.,,,,,list3
+kutas_low_rel_eq_301,kutas,low,rel,eq,301,She put on her high heeled boots.,Are you human?,yes,no,0,list1
+kutas_high_best_eq_301,kutas,high,best,eq,301,She put on her high heeled shoes.,Are you human?,yes,no,0,list2
+kutas_low_rel_eq_310,kutas,low,rel,eq,310,The dirty clothes were piled up in the laundry hamper.,Are you human?,yes,no,0,list2
+kutas_high_best_eq_310,kutas,high,best,eq,310,The dirty clothes were piled up in the laundry basket.,Are you human?,yes,no,0,list1
+kutas_low_unrel_eq_314,kutas,low,unrel,eq,314,One of the scouts did not know the way and got hurt.,Are you human?,yes,no,0,list1
+kutas_high_best_eq_314,kutas,high,best,eq,314,One of the scouts did not know the way and got lost.,Are you human?,yes,no,0,list2
+kutas_low_unrel_eq_320,kutas,low,unrel,eq,320,I added my name to the top of the wall.,Are you human?,yes,no,0,list2
+kutas_high_best_eq_320,kutas,high,best,eq,320,I added my name to the top of the list.,Are you human?,yes,no,0,list1
+kutas_low_unrel_eq_326,kutas,low,unrel,eq,326,The prisoners were planning their picnic.,Are you human?,yes,no,0,list1
+kutas_high_best_eq_326,kutas,high,best,eq,326,The prisoners were planning their escape.,Are you human?,yes,no,0,list2
+kutas_low_unrel_eq_331,kutas,low,unrel,eq,331,They went as far as they dared.,Are you human?,yes,no,0,list2
+kutas_high_best_eq_331,kutas,high,best,eq,331,They went as far as they could.,Are you human?,yes,no,0,list1
+kutas_low_unrel_eq_332,kutas,low,unrel,eq,332,Mary looked at her watch to check the band.,Are you human?,no,yes,1,list1
+kutas_high_best_eq_332,kutas,high,best,eq,332,Mary looked at her watch to check the time.,Are you human?,no,yes,1,list2
+kutas_low_unrel_eq_340,kutas,low,unrel,eq,340,The barbells the strong man lifted were very rusty.,Are you human?,no,yes,1,list2
+kutas_high_best_eq_340,kutas,high,best,eq,340,The barbells the strong man lifted were very heavy.,Are you human?,no,yes,1,list1
+kutas_low_rel_eq_341,kutas,low,rel,eq,341,He studied a long time so he would pass his tests.,Are you human?,no,yes,1,list1
+kutas_high_best_eq_341,kutas,high,best,eq,341,He studied a long time so he would pass his exams.,Are you human?,no,yes,1,list2
+kutas_low_unrel_eq_354,kutas,low,unrel,eq,354,John was so exhausted he took a vacation to get some help.,Are you human?,no,yes,1,list2
+kutas_high_best_eq_354,kutas,high,best,eq,354,John was so exhausted he took a vacation to get some rest.,Are you human?,no,yes,1,list1
+kutas_low_rel_eq_374,kutas,low,rel,eq,374,The tenants were evicted when they did not pay the last month's bill.,Are you human?,no,yes,1,list1
+kutas_high_best_eq_374,kutas,high,best,eq,374,The tenants were evicted when they did not pay the last month's rent.,Are you human?,no,yes,1,list2
+kutas_low_rel_eq_375,kutas,low,rel,eq,375,The wet towels were hung on the line to air.,,,,,list2
+kutas_high_best_eq_375,kutas,high,best,eq,375,The wet towels were hung on the line to dry.,,,,,list1
+kutas_low_rel_eq_387,kutas,low,rel,eq,387,While skiing Randy broke his arm.,,,,,list1
+kutas_high_best_eq_387,kutas,high,best,eq,387,While skiing Randy broke his leg.,,,,,list2
+kutas_low_rel_eq_395,kutas,low,rel,eq,395,The girl knew most of the words for her spelling quiz.,,,,,list2
+kutas_high_best_eq_395,kutas,high,best,eq,395,The girl knew most of the words for her spelling test.,,,,,list1
+kutas_low_unrel_eq_401,kutas,low,unrel,eq,401,The tenants decided to take their landlord to lunch.,,,,,list1
+kutas_high_best_eq_401,kutas,high,best,eq,401,The tenants decided to take their landlord to court.,,,,,list2
+kutas_low_rel_eq_402,kutas,low,rel,eq,402,They're out in the garden pulling roots.,,,,,list2
+kutas_high_best_eq_402,kutas,high,best,eq,402,They're out in the garden pulling weeds.,,,,,list1
+kutas_low_rel_eq_404,kutas,low,rel,eq,404,She sewed the button on with needle and black string.,,,,,list1
+kutas_high_best_eq_404,kutas,high,best,eq,404,She sewed the button on with needle and black thread.,,,,,list2
+kutas_low_unrel_eq_414,kutas,low,unrel,eq,414,She went to the salon to color her toes.,,,,,list2
+kutas_high_best_eq_414,kutas,high,best,eq,414,She went to the salon to color her hair.,,,,,list1
+kutas_low_unrel_eq_418,kutas,low,unrel,eq,418,Sam could not believe her story was true.,,,,,list1
+kutas_high_best_eq_418,kutas,high,best,eq,418,Sam could not believe her story was told.,,,,,list2
+kutas_low_rel_eq_424,kutas,low,rel,eq,424,New York is a very busy town.,,,,,list2
+kutas_high_best_eq_424,kutas,high,best,eq,424,New York is a very busy city.,,,,,list1
+kutas_low_rel_eq_426,kutas,low,rel,eq,426,The gas station is about two miles down the path.,,,,,list1
+kutas_high_best_eq_426,kutas,high,best,eq,426,The gas station is about two miles down the road.,,,,,list2
+kutas_low_unrel_eq_432,kutas,low,unrel,eq,432,None of his books made much sense.,,,,,list2
+kutas_high_best_eq_432,kutas,high,best,eq,432,None of his books made much money.,,,,,list1
+kutas_low_rel_eq_439,kutas,low,rel,eq,439,Captain Sheir wanted to stay with the sinking boat.,,,,,list1
+kutas_high_best_eq_439,kutas,high,best,eq,439,Captain Sheir wanted to stay with the sinking ship.,,,,,list2
+kutas_low_rel_eq_463,kutas,low,rel,eq,463,She made a salami sandwich on wheat rolls.,Are you human?,yes,no,0,list2
+kutas_high_best_eq_463,kutas,high,best,eq,463,She made a salami sandwich on wheat bread.,Are you human?,yes,no,0,list1
+kutas_low_unrel_eq_470,kutas,low,unrel,eq,470,They saw the lightning and heard the screams.,Are you human?,yes,no,0,list1
+kutas_high_best_eq_470,kutas,high,best,eq,470,They saw the lightning and heard the thunder.,Are you human?,yes,no,0,list2
+kutas_low_unrel_eq_472,kutas,low,unrel,eq,472,The squirrel stored some nuts in the hole.,Are you human?,yes,no,0,list2
+kutas_high_best_eq_472,kutas,high,best,eq,472,The squirrel stored some nuts in the tree.,Are you human?,yes,no,0,list1
+kutas_low_unrel_eq_474,kutas,low,unrel,eq,474,The car pulled up and took the last parking meter.,Are you human?,yes,no,0,list1
+kutas_high_best_eq_474,kutas,high,best,eq,474,The car pulled up and took the last parking space.,Are you human?,yes,no,0,list2
+kutas_high_best_bestlonger_302,kutas,high,best,bestlonger,302,The cub scouts needed a new den mother.,Are you human?,yes,no,0,list2
+kutas_low_unrel_bestlonger_302,kutas,low,unrel,bestlonger,302,The cub scouts needed a new den chair.,Are you human?,yes,no,0,list1
+kutas_low_unrel_bestlonger_313,kutas,low,unrel,bestlonger,313,She's afraid of deep water because she can't see.,Are you human?,yes,no,0,list1
+kutas_high_best_bestlonger_313,kutas,high,best,bestlonger,313,She's afraid of deep water because she can't swim.,Are you human?,yes,no,0,list2
+kutas_low_rel_bestlonger_318,kutas,low,rel,bestlonger,318,They heated the pool with solar power.,Are you human?,no,yes,1,list2
+kutas_high_best_bestlonger_318,kutas,high,best,bestlonger,318,They heated the pool with solar energy.,Are you human?,no,yes,1,list1
+kutas_low_unrel_bestlonger_319,kutas,low,unrel,bestlonger,319,The baby weighed six pounds at noon.,Are you human?,no,yes,1,list1
+kutas_high_best_bestlonger_319,kutas,high,best,bestlonger,319,The baby weighed six pounds at birth.,Are you human?,no,yes,1,list2
+kutas_low_rel_bestlonger_328,kutas,low,rel,bestlonger,328,The office held a new year's eve bash.,Are you human?,no,yes,1,list2
+kutas_high_best_bestlonger_328,kutas,high,best,bestlonger,328,The office held a new year's eve party.,Are you human?,no,yes,1,list1
+kutas_low_unrel_bestlonger_339,kutas,low,unrel,bestlonger,339,When the shooting started they ran for help.,Are you human?,no,yes,1,list1
+kutas_high_best_bestlonger_339,kutas,high,best,bestlonger,339,When the shooting started they ran for cover.,Are you human?,no,yes,1,list2
+kutas_low_unrel_bestlonger_353,kutas,low,unrel,bestlonger,353,On hot days many people sun themselves on the roof.,Are you human?,no,yes,1,list2
+kutas_high_best_bestlonger_353,kutas,high,best,bestlonger,353,On hot days many people sun themselves on the beach.,Are you human?,no,yes,1,list1
+kutas_low_rel_bestlonger_355,kutas,low,rel,bestlonger,355,William went to the bank to borrow some cash.,,,,,list1
+kutas_high_best_bestlonger_355,kutas,high,best,bestlonger,355,William went to the bank to borrow some money.,,,,,list2
+kutas_low_rel_bestlonger_382,kutas,low,rel,bestlonger,382,Cathy was glad that Friday was payday because she was poor.,,,,,list2
+kutas_high_best_bestlonger_382,kutas,high,best,bestlonger,382,Cathy was glad that Friday was payday because she was broke.,,,,,list1
+kutas_low_rel_bestlonger_383,kutas,low,rel,bestlonger,383,George made out a check to pay the monthly telephone fee.,,,,,list1
+kutas_high_best_bestlonger_383,kutas,high,best,bestlonger,383,George made out a check to pay the monthly telephone bill.,,,,,list2
+kutas_low_unrel_bestlonger_390,kutas,low,unrel,bestlonger,390,George kept his pet on a diet.,,,,,list2
+kutas_high_best_bestlonger_390,kutas,high,best,bestlonger,390,George kept his pet on a leash.,,,,,list1
+kutas_low_unrel_bestlonger_393,kutas,low,unrel,bestlonger,393,Jeff felt sorry but it was not his turn.,,,,,list1
+kutas_high_best_bestlonger_393,kutas,high,best,bestlonger,393,Jeff felt sorry but it was not his fault.,,,,,list2
+kutas_low_unrel_bestlonger_396,kutas,low,unrel,bestlonger,396,They asked Dave to play tennis but he was too good.,,,,,list2
+kutas_high_best_bestlonger_396,kutas,high,best,bestlonger,396,They asked Dave to play tennis but he was too tired.,,,,,list1
+kutas_low_unrel_bestlonger_415,kutas,low,unrel,bestlonger,415,Brian poured some sauce on his rare meat.,,,,,list1
+kutas_high_best_bestlonger_415,kutas,high,best,bestlonger,415,Brian poured some sauce on his rare steak.,,,,,list2
+kutas_low_rel_bestlonger_419,kutas,low,rel,bestlonger,419,Tim threw a rock and broke the glass.,,,,,list2
+kutas_high_best_bestlonger_419,kutas,high,best,bestlonger,419,Tim threw a rock and broke the window.,,,,,list1
+kutas_low_unrel_bestlonger_423,kutas,low,unrel,bestlonger,423,The lawyer feared that his client would be found crazy.,,,,,list1
+kutas_high_best_bestlonger_423,kutas,high,best,bestlonger,423,The lawyer feared that his client would be found guilty.,,,,,list2
+kutas_low_unrel_bestlonger_436,kutas,low,unrel,bestlonger,436,The boat passed easily under the falls.,,,,,list2
+kutas_high_best_bestlonger_436,kutas,high,best,bestlonger,436,The boat passed easily under the bridge.,,,,,list1
+kutas_low_rel_bestlonger_451,kutas,low,rel,bestlonger,451,He bought the chocolates at the candy shop.,,,,,list1
+kutas_high_best_bestlonger_451,kutas,high,best,bestlonger,451,He bought the chocolates at the candy store.,,,,,list2
+kutas_low_rel_bestlonger_452,kutas,low,rel,bestlonger,452,After the accident they went for aid.,,,,,list2
+kutas_high_best_bestlonger_452,kutas,high,best,bestlonger,452,After the accident they went for help.,,,,,list1
+kutas_low_unrel_bestlonger_459,kutas,low,unrel,bestlonger,459,It was important to be on top.,,,,,list1
+kutas_high_best_bestlonger_459,kutas,high,best,bestlonger,459,It was important to be on time.,,,,,list2
+kutas_low_unrel_bestlonger_471,kutas,low,unrel,bestlonger,471,It felt much colder when the sun was behind a tree.,,,,,list2
+kutas_high_best_bestlonger_471,kutas,high,best,bestlonger,471,It felt much colder when the sun was behind a cloud.,,,,,list1
+kutas_low_rel_bestshorter_304,kutas,low,rel,bestshorter,304,The pizza was too hot to chew.,Are you human?,yes,no,0,list1
+kutas_high_best_bestshorter_304,kutas,high,best,bestshorter,304,The pizza was too hot to eat.,Are you human?,yes,no,0,list2
+kutas_low_rel_bestshorter_307,kutas,low,rel,bestshorter,307,The ship disappeared into the thick mist.,Are you human?,yes,no,0,list2
+kutas_high_best_bestshorter_307,kutas,high,best,bestshorter,307,The ship disappeared into the thick fog.,Are you human?,yes,no,0,list1
+kutas_low_rel_bestshorter_308,kutas,low,rel,bestshorter,308,Nothing can beat a bowl of hot broth.,Are you human?,yes,no,0,list1
+kutas_high_best_bestshorter_308,kutas,high,best,bestshorter,308,Nothing can beat a bowl of hot soup.,Are you human?,yes,no,0,list2
+kutas_low_rel_bestshorter_323,kutas,low,rel,bestshorter,323,The clerk put the groceries in the shopping carts.,Are you human?,yes,no,0,list2
+kutas_high_best_bestshorter_323,kutas,high,best,bestshorter,323,The clerk put the groceries in the shopping bags.,Are you human?,yes,no,0,list1
+kutas_low_rel_bestshorter_362,kutas,low,rel,bestshorter,362,The movers put the sofa on the bare ground.,Are you human?,yes,no,0,list1
+kutas_high_best_bestshorter_362,kutas,high,best,bestshorter,362,The movers put the sofa on the bare floor.,Are you human?,yes,no,0,list2
+kutas_low_unrel_bestshorter_365,kutas,low,unrel,bestshorter,365,The whole town came to hear the mayor resign.,Are you human?,yes,no,0,list2
+kutas_high_best_bestshorter_365,kutas,high,best,bestshorter,365,The whole town came to hear the mayor speak.,Are you human?,yes,no,0,list1
+kutas_low_unrel_bestshorter_388,kutas,low,unrel,bestshorter,388,The addict was caught pushing illegal movies.,Are you human?,no,yes,1,list1
+kutas_high_best_bestshorter_388,kutas,high,best,bestshorter,388,The addict was caught pushing illegal drugs.,Are you human?,no,yes,1,list2
+kutas_low_rel_bestshorter_406,kutas,low,rel,bestshorter,406,He was stung by a wasp.,Are you human?,no,yes,1,list2
+kutas_high_best_bestshorter_406,kutas,high,best,bestshorter,406,He was stung by a bee.,Are you human?,no,yes,1,list1
+kutas_low_rel_bestshorter_409,kutas,low,rel,bestshorter,409,The attendant filled the car with fuel.,Are you human?,no,yes,1,list1
+kutas_high_best_bestshorter_409,kutas,high,best,bestshorter,409,The attendant filled the car with gas.,Are you human?,no,yes,1,list2
+kutas_low_unrel_bestshorter_428,kutas,low,unrel,bestshorter,428,John filled the pen with care.,Are you human?,no,yes,1,list2
+kutas_high_best_bestshorter_428,kutas,high,best,bestshorter,428,John filled the pen with ink.,Are you human?,no,yes,1,list1
+kutas_low_rel_bestshorter_444,kutas,low,rel,bestshorter,444,The movie ended so sadly that Julie started to sob.,Are you human?,no,yes,1,list1
+kutas_high_best_bestshorter_444,kutas,high,best,bestshorter,444,The movie ended so sadly that Julie started to cry.,Are you human?,no,yes,1,list2
+kutas_low_rel_bestshorter_465,kutas,low,rel,bestshorter,465,The kids fed the ducks some stale crumbs.,,,,,list2
+kutas_high_best_bestshorter_465,kutas,high,best,bestshorter,465,The kids fed the ducks some stale bread.,,,,,list1
+kutas_low_rel_eq_301,kutas,low,rel,eq,301,She put on her high heeled boots.,Are you human?,yes,no,0,list3
+kutas_high_best_eq_301,kutas,high,best,eq,301,She put on her high heeled shoes.,Are you human?,yes,no,0,list4
+kutas_low_rel_eq_310,kutas,low,rel,eq,310,The dirty clothes were piled up in the laundry hamper.,Are you human?,yes,no,0,list4
+kutas_high_best_eq_310,kutas,high,best,eq,310,The dirty clothes were piled up in the laundry basket.,Are you human?,yes,no,0,list3
+kutas_low_unrel_eq_314,kutas,low,unrel,eq,314,One of the scouts did not know the way and got hurt.,Are you human?,yes,no,0,list3
+kutas_high_best_eq_314,kutas,high,best,eq,314,One of the scouts did not know the way and got lost.,Are you human?,yes,no,0,list4
+kutas_low_unrel_eq_320,kutas,low,unrel,eq,320,I added my name to the top of the wall.,Are you human?,yes,no,0,list4
+kutas_high_best_eq_320,kutas,high,best,eq,320,I added my name to the top of the list.,Are you human?,yes,no,0,list3
+kutas_low_unrel_eq_326,kutas,low,unrel,eq,326,The prisoners were planning their picnic.,Are you human?,yes,no,0,list3
+kutas_high_best_eq_326,kutas,high,best,eq,326,The prisoners were planning their escape.,Are you human?,yes,no,0,list4
+kutas_low_unrel_eq_331,kutas,low,unrel,eq,331,They went as far as they dared.,Are you human?,yes,no,0,list4
+kutas_high_best_eq_331,kutas,high,best,eq,331,They went as far as they could.,Are you human?,yes,no,0,list3
+kutas_low_unrel_eq_332,kutas,low,unrel,eq,332,Mary looked at her watch to check the band.,Are you human?,no,yes,1,list3
+kutas_high_best_eq_332,kutas,high,best,eq,332,Mary looked at her watch to check the time.,Are you human?,no,yes,1,list4
+kutas_low_unrel_eq_340,kutas,low,unrel,eq,340,The barbells the strong man lifted were very rusty.,Are you human?,no,yes,1,list4
+kutas_high_best_eq_340,kutas,high,best,eq,340,The barbells the strong man lifted were very heavy.,Are you human?,no,yes,1,list3
+kutas_low_rel_eq_341,kutas,low,rel,eq,341,He studied a long time so he would pass his tests.,Are you human?,no,yes,1,list3
+kutas_high_best_eq_341,kutas,high,best,eq,341,He studied a long time so he would pass his exams.,Are you human?,no,yes,1,list4
+kutas_low_unrel_eq_354,kutas,low,unrel,eq,354,John was so exhausted he took a vacation to get some help.,Are you human?,no,yes,1,list4
+kutas_high_best_eq_354,kutas,high,best,eq,354,John was so exhausted he took a vacation to get some rest.,Are you human?,no,yes,1,list3
+kutas_low_rel_eq_374,kutas,low,rel,eq,374,The tenants were evicted when they did not pay the last month's bill.,Are you human?,no,yes,1,list3
+kutas_high_best_eq_374,kutas,high,best,eq,374,The tenants were evicted when they did not pay the last month's rent.,Are you human?,no,yes,1,list4
+kutas_low_rel_eq_375,kutas,low,rel,eq,375,The wet towels were hung on the line to air.,,,,,list4
+kutas_high_best_eq_375,kutas,high,best,eq,375,The wet towels were hung on the line to dry.,,,,,list3
+kutas_low_rel_eq_387,kutas,low,rel,eq,387,While skiing Randy broke his arm.,,,,,list3
+kutas_high_best_eq_387,kutas,high,best,eq,387,While skiing Randy broke his leg.,,,,,list4
+kutas_low_rel_eq_395,kutas,low,rel,eq,395,The girl knew most of the words for her spelling quiz.,,,,,list4
+kutas_high_best_eq_395,kutas,high,best,eq,395,The girl knew most of the words for her spelling test.,,,,,list3
+kutas_low_unrel_eq_401,kutas,low,unrel,eq,401,The tenants decided to take their landlord to lunch.,,,,,list3
+kutas_high_best_eq_401,kutas,high,best,eq,401,The tenants decided to take their landlord to court.,,,,,list4
+kutas_low_rel_eq_402,kutas,low,rel,eq,402,They're out in the garden pulling roots.,,,,,list4
+kutas_high_best_eq_402,kutas,high,best,eq,402,They're out in the garden pulling weeds.,,,,,list3
+kutas_low_rel_eq_404,kutas,low,rel,eq,404,She sewed the button on with needle and black string.,Are you human?,yes,no,0,list3
+kutas_high_best_eq_404,kutas,high,best,eq,404,She sewed the button on with needle and black thread.,Are you human?,yes,no,0,list4
+kutas_low_unrel_eq_414,kutas,low,unrel,eq,414,She went to the salon to color her toes.,Are you human?,yes,no,0,list4
+kutas_high_best_eq_414,kutas,high,best,eq,414,She went to the salon to color her hair.,Are you human?,yes,no,0,list3
+kutas_low_unrel_eq_418,kutas,low,unrel,eq,418,Sam could not believe her story was true.,Are you human?,yes,no,0,list3
+kutas_high_best_eq_418,kutas,high,best,eq,418,Sam could not believe her story was told.,Are you human?,yes,no,0,list4
+kutas_low_rel_eq_424,kutas,low,rel,eq,424,New York is a very busy town.,Are you human?,yes,no,0,list4
+kutas_high_best_eq_424,kutas,high,best,eq,424,New York is a very busy city.,Are you human?,yes,no,0,list3
+kutas_low_rel_eq_426,kutas,low,rel,eq,426,The gas station is about two miles down the path.,Are you human?,yes,no,0,list3
+kutas_high_best_eq_426,kutas,high,best,eq,426,The gas station is about two miles down the road.,Are you human?,yes,no,0,list4
+kutas_low_unrel_eq_432,kutas,low,unrel,eq,432,None of his books made much sense.,Are you human?,yes,no,0,list4
+kutas_high_best_eq_432,kutas,high,best,eq,432,None of his books made much money.,Are you human?,yes,no,0,list3
+kutas_low_rel_eq_439,kutas,low,rel,eq,439,Captain Sheir wanted to stay with the sinking boat.,Are you human?,no,yes,1,list3
+kutas_high_best_eq_439,kutas,high,best,eq,439,Captain Sheir wanted to stay with the sinking ship.,Are you human?,no,yes,1,list4
+kutas_low_rel_eq_463,kutas,low,rel,eq,463,She made a salami sandwich on wheat rolls.,Are you human?,no,yes,1,list4
+kutas_high_best_eq_463,kutas,high,best,eq,463,She made a salami sandwich on wheat bread.,Are you human?,no,yes,1,list3
+kutas_low_unrel_eq_470,kutas,low,unrel,eq,470,They saw the lightning and heard the screams.,Are you human?,no,yes,1,list3
+kutas_high_best_eq_470,kutas,high,best,eq,470,They saw the lightning and heard the thunder.,Are you human?,no,yes,1,list4
+kutas_low_unrel_eq_472,kutas,low,unrel,eq,472,The squirrel stored some nuts in the hole.,Are you human?,no,yes,1,list4
+kutas_high_best_eq_472,kutas,high,best,eq,472,The squirrel stored some nuts in the tree.,Are you human?,no,yes,1,list3
+kutas_low_unrel_eq_474,kutas,low,unrel,eq,474,The car pulled up and took the last parking meter.,Are you human?,no,yes,1,list3
+kutas_high_best_eq_474,kutas,high,best,eq,474,The car pulled up and took the last parking space.,Are you human?,no,yes,1,list4
+kutas_high_best_bestlonger_302,kutas,high,best,bestlonger,302,The cub scouts needed a new den mother.,,,,,list4
+kutas_low_unrel_bestlonger_302,kutas,low,unrel,bestlonger,302,The cub scouts needed a new den chair.,,,,,list3
+kutas_low_unrel_bestlonger_313,kutas,low,unrel,bestlonger,313,She's afraid of deep water because she can't see.,,,,,list3
+kutas_high_best_bestlonger_313,kutas,high,best,bestlonger,313,She's afraid of deep water because she can't swim.,,,,,list4
+kutas_low_rel_bestlonger_318,kutas,low,rel,bestlonger,318,They heated the pool with solar power.,,,,,list4
+kutas_high_best_bestlonger_318,kutas,high,best,bestlonger,318,They heated the pool with solar energy.,,,,,list3
+kutas_low_unrel_bestlonger_319,kutas,low,unrel,bestlonger,319,The baby weighed six pounds at noon.,,,,,list3
+kutas_high_best_bestlonger_319,kutas,high,best,bestlonger,319,The baby weighed six pounds at birth.,,,,,list4
+kutas_low_rel_bestlonger_328,kutas,low,rel,bestlonger,328,The office held a new year's eve bash.,,,,,list4
+kutas_high_best_bestlonger_328,kutas,high,best,bestlonger,328,The office held a new year's eve party.,,,,,list3
+kutas_low_unrel_bestlonger_339,kutas,low,unrel,bestlonger,339,When the shooting started they ran for help.,,,,,list3
+kutas_high_best_bestlonger_339,kutas,high,best,bestlonger,339,When the shooting started they ran for cover.,,,,,list4
+kutas_low_unrel_bestlonger_353,kutas,low,unrel,bestlonger,353,On hot days many people sun themselves on the roof.,,,,,list4
+kutas_high_best_bestlonger_353,kutas,high,best,bestlonger,353,On hot days many people sun themselves on the beach.,,,,,list3
+kutas_low_rel_bestlonger_355,kutas,low,rel,bestlonger,355,William went to the bank to borrow some cash.,,,,,list3
+kutas_high_best_bestlonger_355,kutas,high,best,bestlonger,355,William went to the bank to borrow some money.,,,,,list4
+kutas_low_rel_bestlonger_382,kutas,low,rel,bestlonger,382,Cathy was glad that Friday was payday because she was poor.,,,,,list4
+kutas_high_best_bestlonger_382,kutas,high,best,bestlonger,382,Cathy was glad that Friday was payday because she was broke.,,,,,list3
+kutas_low_rel_bestlonger_383,kutas,low,rel,bestlonger,383,George made out a check to pay the monthly telephone fee.,,,,,list3
+kutas_high_best_bestlonger_383,kutas,high,best,bestlonger,383,George made out a check to pay the monthly telephone bill.,,,,,list4
+kutas_low_unrel_bestlonger_390,kutas,low,unrel,bestlonger,390,George kept his pet on a diet.,,,,,list4
+kutas_high_best_bestlonger_390,kutas,high,best,bestlonger,390,George kept his pet on a leash.,,,,,list3
+kutas_low_unrel_bestlonger_393,kutas,low,unrel,bestlonger,393,Jeff felt sorry but it was not his turn.,,,,,list3
+kutas_high_best_bestlonger_393,kutas,high,best,bestlonger,393,Jeff felt sorry but it was not his fault.,,,,,list4
+kutas_low_unrel_bestlonger_396,kutas,low,unrel,bestlonger,396,They asked Dave to play tennis but he was too good.,,,,,list4
+kutas_high_best_bestlonger_396,kutas,high,best,bestlonger,396,They asked Dave to play tennis but he was too tired.,,,,,list3
+kutas_low_unrel_bestlonger_415,kutas,low,unrel,bestlonger,415,Brian poured some sauce on his rare meat.,,,,,list3
+kutas_high_best_bestlonger_415,kutas,high,best,bestlonger,415,Brian poured some sauce on his rare steak.,,,,,list4
+kutas_low_rel_bestlonger_419,kutas,low,rel,bestlonger,419,Tim threw a rock and broke the glass.,,,,,list4
+kutas_high_best_bestlonger_419,kutas,high,best,bestlonger,419,Tim threw a rock and broke the window.,,,,,list3
+kutas_low_unrel_bestlonger_423,kutas,low,unrel,bestlonger,423,The lawyer feared that his client would be found crazy.,,,,,list3
+kutas_high_best_bestlonger_423,kutas,high,best,bestlonger,423,The lawyer feared that his client would be found guilty.,,,,,list4
+kutas_low_unrel_bestlonger_436,kutas,low,unrel,bestlonger,436,The boat passed easily under the falls.,,,,,list4
+kutas_high_best_bestlonger_436,kutas,high,best,bestlonger,436,The boat passed easily under the bridge.,,,,,list3
+kutas_low_rel_bestlonger_451,kutas,low,rel,bestlonger,451,He bought the chocolates at the candy shop.,,,,,list3
+kutas_high_best_bestlonger_451,kutas,high,best,bestlonger,451,He bought the chocolates at the candy store.,,,,,list4
+kutas_low_rel_bestlonger_452,kutas,low,rel,bestlonger,452,After the accident they went for aid.,,,,,list4
+kutas_high_best_bestlonger_452,kutas,high,best,bestlonger,452,After the accident they went for help.,,,,,list3
+kutas_low_unrel_bestlonger_459,kutas,low,unrel,bestlonger,459,It was important to be on top.,Are you human?,yes,no,0,list3
+kutas_high_best_bestlonger_459,kutas,high,best,bestlonger,459,It was important to be on time.,Are you human?,yes,no,0,list4
+kutas_low_unrel_bestlonger_471,kutas,low,unrel,bestlonger,471,It felt much colder when the sun was behind a tree.,Are you human?,yes,no,0,list4
+kutas_high_best_bestlonger_471,kutas,high,best,bestlonger,471,It felt much colder when the sun was behind a cloud.,Are you human?,yes,no,0,list3
+kutas_low_rel_bestshorter_304,kutas,low,rel,bestshorter,304,The pizza was too hot to chew.,Are you human?,yes,no,0,list3
+kutas_high_best_bestshorter_304,kutas,high,best,bestshorter,304,The pizza was too hot to eat.,Are you human?,yes,no,0,list4
+kutas_low_rel_bestshorter_307,kutas,low,rel,bestshorter,307,The ship disappeared into the thick mist.,Are you human?,yes,no,0,list4
+kutas_high_best_bestshorter_307,kutas,high,best,bestshorter,307,The ship disappeared into the thick fog.,Are you human?,yes,no,0,list3
+kutas_low_rel_bestshorter_308,kutas,low,rel,bestshorter,308,Nothing can beat a bowl of hot broth.,Are you human?,yes,no,0,list3
+kutas_high_best_bestshorter_308,kutas,high,best,bestshorter,308,Nothing can beat a bowl of hot soup.,Are you human?,yes,no,0,list4
+kutas_low_rel_bestshorter_323,kutas,low,rel,bestshorter,323,The clerk put the groceries in the shopping carts.,Are you human?,yes,no,0,list4
+kutas_high_best_bestshorter_323,kutas,high,best,bestshorter,323,The clerk put the groceries in the shopping bags.,Are you human?,yes,no,0,list3
+kutas_low_rel_bestshorter_362,kutas,low,rel,bestshorter,362,The movers put the sofa on the bare ground.,Are you human?,no,yes,1,list3
+kutas_high_best_bestshorter_362,kutas,high,best,bestshorter,362,The movers put the sofa on the bare floor.,Are you human?,no,yes,1,list4
+kutas_low_unrel_bestshorter_365,kutas,low,unrel,bestshorter,365,The whole town came to hear the mayor resign.,Are you human?,no,yes,1,list4
+kutas_high_best_bestshorter_365,kutas,high,best,bestshorter,365,The whole town came to hear the mayor speak.,Are you human?,no,yes,1,list3
+kutas_low_unrel_bestshorter_388,kutas,low,unrel,bestshorter,388,The addict was caught pushing illegal movies.,Are you human?,no,yes,1,list3
+kutas_high_best_bestshorter_388,kutas,high,best,bestshorter,388,The addict was caught pushing illegal drugs.,Are you human?,no,yes,1,list4
+kutas_low_rel_bestshorter_406,kutas,low,rel,bestshorter,406,He was stung by a wasp.,Are you human?,no,yes,1,list4
+kutas_high_best_bestshorter_406,kutas,high,best,bestshorter,406,He was stung by a bee.,Are you human?,no,yes,1,list3
+kutas_low_rel_bestshorter_409,kutas,low,rel,bestshorter,409,The attendant filled the car with fuel.,Are you human?,no,yes,1,list3
+kutas_high_best_bestshorter_409,kutas,high,best,bestshorter,409,The attendant filled the car with gas.,Are you human?,no,yes,1,list4
+kutas_low_unrel_bestshorter_428,kutas,low,unrel,bestshorter,428,John filled the pen with care.,,,,,list4
+kutas_high_best_bestshorter_428,kutas,high,best,bestshorter,428,John filled the pen with ink.,,,,,list3
+kutas_low_rel_bestshorter_444,kutas,low,rel,bestshorter,444,The movie ended so sadly that Julie started to sob.,,,,,list3
+kutas_high_best_bestshorter_444,kutas,high,best,bestshorter,444,The movie ended so sadly that Julie started to cry.,,,,,list4
+kutas_low_rel_bestshorter_465,kutas,low,rel,bestshorter,465,The kids fed the ducks some stale crumbs.,,,,,list4
+kutas_high_best_bestshorter_465,kutas,high,best,bestshorter,465,The kids fed the ducks some stale bread.,,,,,list3

@@ -1,0 +1,12 @@
+label,cond1,cond2,cond3,cond4,item,sentence,comprehension_question,answerchoice0,answerchoice1,correct_response,group
+chow_rev_high_101_10,chow,rev,high,10,101,The trapeze artist indicated which lion the trainer had tamed for the circus.,Who did the trainer tame for the circus?,a lion,a zebra,0,list2
+chow_rev_low_101_10,chow,rev,low,10,101,The trapeze artist indicated which trainer the lion had tamed for the circus.,Who did the lion tame for the circus?,a clown,a trainer,1,list1
+chow_rev_high_102_10,chow,rev,high,10,102,The birthday boy saw which friend the clown had scared at the party.,Did the clown scare someone at the party?,yes,no,0,list1
+chow_rev_low_102_10,chow,rev,low,10,102,The birthday boy saw which clown the friend had scared at the party.,Did the clown scare someone at the party?,yes,no,0,list2
+chow_rev_high_103_10,chow,rev,high,10,103,The opera composer revealed which pirate the singer had portrayed with the greatest finesse.,What did the opera composer do?,reveal,dance,0,list2
+chow_rev_low_103_10,chow,rev,low,10,103,The opera composer revealed which singer the pirate had portrayed with the greatest finesse.,What did the opera composer do?,reveal,dance,0,list1
+chow_rev_high_104_9,chow,rev,high,9,104,The newscaster confirmed which fugitive the policeman had arrested following the robbery.,What did the newscaster do?,arrest,confirm,1,list1
+chow_rev_low_104_9,chow,rev,low,9,104,The newscaster confirmed which policeman the fugitive had arrested following the robbery.,What did the newscaster do?,arrest,confirm,1,list2
+chow_rev_high_105_10,chow,rev,high,10,105,The royal cook asked which lord the chef had served for twenty years.,How long did the chef serve?,twenty years,fifteen years,0,list2
+chow_rev_low_105_10,chow,rev,low,10,105,The royal cook asked which chef the lord had served for twenty years.,How long did the lord serve?,twenty years,fifteen years,0,list1
+,,,,,,,,,,,
