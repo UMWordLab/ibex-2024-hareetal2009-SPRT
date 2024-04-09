@@ -11,11 +11,7 @@ var shuffleSequence = seq("consent", "IDentry", "demo", "intro",
                             "starter",
 
                             // trials named _dummy_ will be excluded by following:
-                            sepWith("sep", randomize(anyOf(
-                                startsWith("intr"),
-                                startsWith("tran"),
-                                startsWith("gpath")
-                                ))),
+                            sepWith("sep", randomize(anyOf("experiment")),
 
                             "sendresults",
                             "completion"
@@ -115,21 +111,21 @@ function modifyRunningOrder(ro) {
     for (var i in ro) {
       var item = ro[i];
       // fill in the relevant experimental condition names on the next line
-      if (item[0].type.startsWith("chow")|| item[0].type.startsWith("kutas")) {
+      if (item[0].type.startsWith("experiment")) {
           item_count++;
           new_ro.push(item);
         // first number after item count is how many items between breaks. second is total-items - 1
-          if (item_count%40===0 & item_count<117){
+          if (item_count%20===0 & item_count<57){
          // value here should be total_items - items_per_block (to trigger message that last block is coming up)
               
               // NEW: Had to add 3 to get the message to show? I think the message DynamicElement
               // that is added at the end of this function is increasing the length of RO? Not sure.
-              if (item_count===80){
+              if (item_count===40){
                   text="End of block. Only 1 block left!";
                   }
               else {
         // first number is the total number of blocks. second number is number of items per block
-                  text="End of block. "+(3-(Math.floor(item_count/40)))+" blocks left.";
+                  text="End of block. "+(3-(Math.floor(item_count/20)))+" blocks left.";
               }ro[i].push(new DynamicElement("Message", 
                                 { html: "<p>30-second break - stretch and look away from the screen briefly if needed.</p>" + text, transfer: 30000 }));
           }
@@ -140,10 +136,8 @@ function modifyRunningOrder(ro) {
     return new_ro;
   }
  
-  Template("practice.csv", row => {
-
-    items.push(
-        [[row.label, row.item] , "PennController", newTrial(
+  Template("practice.csv", row => 
+    newTrial("practice",
             newController("DashedSentenceAlt", {s: row.sentence})
                 .print()
                 .log()
@@ -174,15 +168,10 @@ function modifyRunningOrder(ro) {
         .log("cond3", row.cond3)
         .log("correct_response", row.correct_response)
         .log("group", row.group)
-        ]
-    );
-    return newTrial('_dummy_',null);
- })
+        )
 
-Template("hareetal_stims.csv", row => {
-
-   items.push(
-       [[row.label, row.item] , "PennController", newTrial(
+Template("hareetal_stims.csv", row => 
+    newTrial("experiment",
            newController("DashedSentenceAlt", {s: row.sentence})
                .print()
                .log()
@@ -213,10 +202,7 @@ Template("hareetal_stims.csv", row => {
        .log("cond3", row.cond3)
        .log("correct_response", row.correct_response)
        .log("group", row.group)
-       ]
-   );
-   return newTrial('_dummy_',null);
-})
+      )
 
 newTrial("demo",
    newHtml("Form", "demo.html")
@@ -252,7 +238,7 @@ var items = [
 
 ["startpractice", Message, {consentRequired: false,
    html: ["div",
-          ["p", "First you can do three practice sentences."]
+          ["p", "First you can do twenty warm-up sentences to get used to the method and answering the comprehension questions."]
          ]}],
  
 ["starter", Message, {consentRequired: false,
