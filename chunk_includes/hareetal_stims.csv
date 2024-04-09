@@ -1,0 +1,233 @@
+﻿item,label,cond1,cond2,cond3,sentence,comprehension_question,answerchoice0,answerchoice1,correct_response,group
+1,intrS_intr_1,intrS,intr,Bend,The pipe bent towards the ground to connect to the underground line.,What connected to the line underground?,a pipe,a subway,0,list1
+1,intrS_tran_1,intrS,tran,Bend,The ironworker bent towards the ground to connect the plug to the outlet.,What did the ironworker connect to the outlet?,the ironworker,a plug,1,list2
+1,tranS_intr_1,tranS,intr,Bend,The pipe bent the car door when he slipped and dropped it.,What did he drop?,car door,pipe,1,list3
+1,tranS_tran_1,tranS,tran,Bend,The ironworker bent the car door when he slipped and fell against it.,What got bent?,car door,ironworker,0,list4
+2,intrS_intr_2,intrS,intr,Break,The window broke into a hail of sharp fragments of glass when he slammed it down too quickly.,What got slammed down?,a door,a window,1,list2
+2,intrS_tran_2,intrS,tran,Break,Her husband broke into a hail of sharp recriminations when she forgot to pick up the car at the repair shop yet again.,What did she forget to pick up?,him,the car,1,list1
+2,tranS_intr_2,tranS,intr,Break,The window broke his hand because he slammed it shut too fast.,What got broken?,his hand,the window,0,list4
+2,tranS_tran_2,tranS,tran,Break,Her husband broke his hand because he slammed it down too hard on the table.,Who broke their hand?,her husband,her,0,list3
+3,intrS_intr_3,intrS,intr,Burn,The popcorn burned rather badly after remaining on the stove too long.,Where did the popcorn burn?,outside,on the stove,1,list1
+3,intrS_tran_3,intrS,tran,Burn,The chemist burned rather badly after remaining in the sun too long.,Where did the chemist burn?,outside,on the stove,0,list2
+3,tranS_intr_3,tranS,intr,Burn,The popcorn burned his fingers when he grabbed a handful from the pan.,What got burned?,his fingers,the popcorn,0,list3
+3,tranS_tran_3,tranS,tran,Burn,The chemist burned his fingers when he grabbed the hot pan.,What did the chemist grab?,the beaker,the hot pan,1,list4
+4,intrS_intr_4,intrS,intr,Change,Her feelings changed from cold to friendly after he apologized for his accidental insult.,What did he apologize for?,his brother,his insult,1,list2
+4,intrS_tran_4,intrS,tran,Change,His teacher changed from cold to friendly after he apologized for putting so little effort into his work.,Did he apologize?,yes,no,0,list1
+4,tranS_intr_4,tranS,intr,Change,Her feelings changed his earlier plan to delay the date of the wedding.,What caused him to change his earlier plan?,her feelings,the wedding,0,list4
+4,tranS_tran_4,tranS,tran,Change,His teacher changed his earlier plan to delay the date of the final exam.,Is the final exam delayed now?,yes,no,1,list3
+5,intrS_intr_5,intrS,intr,Chill,The wine chilled through the afternoon but they never bothered to open it.,How long did the wine chill?,through the afternoon,for years,0,list1
+5,intrS_tran_5,intrS,tran,Chill,The wind chilled through the afternoon but they never bothered to put sweaters on.,Did they wear sweaters?,no,yes,0,list2
+5,tranS_intr_5,tranS,intr,Chill,The wine chilled the spectators who stood drinking it on the terrace.,What made the spectators feel colder?,the snow,the wine,1,list3
+5,tranS_tran_5,tranS,tran,Chill,The wind chilled the spectators who stood drinking wine on the terrace.,What made the spectators feel colder?,the wine,the wind,1,list4
+6,intrS_intr_6,intrS,intr,Collect,The rainwater collected in the damp playground and the littlest kids jumped in the puddles.,Where did the rainwater collect?,playground,storm drain,0,list2
+6,intrS_tran_6,intrS,tran,Collect,The children collected in the damp playground and the littlest kids jumped in the puddles.,Was the playground dry?,yes,no,1,list1
+6,tranS_intr_6,tranS,intr,Collect,"The rainwater collected dead leaves, insects, and other debris.",What collected debris?,rainwater,children,0,list4
+6,tranS_tran_6,tranS,tran,Collect,"The children collected dead leaves, insects, and other debris in the yard.",What collected debris?,rainwater,children,1,list3
+7,intrS_intr_7,intrS,intr,Crack,The plate cracked in several places when Fred dropped it.,What got cracked?,the table,the plate,1,list1
+7,intrS_tran_7,intrS,tran,Crack,The hammer cracked in several places when Fred dropped it.,What got cracked?,the nail,the hammer,1,list2
+7,tranS_intr_7,tranS,intr,Crack,The plate cracked the glass tabletop when Fred dropped it.,What did Fred drop?,the plate,the tabletop,0,list3
+7,tranS_tran_7,tranS,tran,Crack,The hammer cracked the glass tabletop when Fred dropped it.,What did Fred drop?,the tabletop,the hammer,1,list4
+8,intrS_intr_8,intrS,intr,Dissipate,The smoke dissipated after the rioting mob broke up and went home.,When did the smoke dissipate?,after the riot,during the riot,0,list2
+8,intrS_tran_8,intrS,tran,Dissipate,The police dissipated after the rioting mob broke up and went home.,When did the police dissipate?,after the riot,during the riot,0,list1
+8,tranS_intr_8,tranS,intr,Dissipate,"The smoke eventually dissipated the rioting mob, to everyone’s relief.",What was dissipated?,the smoke,the riot,1,list4
+8,tranS_tran_8,tranS,tran,Dissipate,"The police eventually dissipated the rioting mob, to everyone’s relief.",What was dissipated?,the police,the riot,1,list3
+9,intrS_intr_9,intrS,intr,Erode,Her confidence eroded to nothing after a series of failures.,How did her confidence change?,decreased,increased,0,list1
+9,intrS_tran_9,intrS,tran,Erode,The storm eroded to nothing after a series of downpours.,How did the storm change?,decreased,increased,0,list2
+9,tranS_intr_9,tranS,intr,Erode,Her confidence eroded his hopes of building a winning case against her in court.,What happened to her confidence?,nothing,decreased,0,list3
+9,tranS_tran_9,tranS,tran,Erode,The storm eroded his hopes of building a house on the cliff.,What did his hopes involve?,a storm,a house,1,list4
+10,intrS_intr_10,intrS,intr,Flower,The plants flowered in the new location because of the extra sunlight there.,What flowered in the new location?,the plants,the gardener,0,list2
+10,intrS_tran_10,intrS,tran,Flower,The gardener flowered in the new location because of her friendly co-workers there.,What flowered in the new location?,the plants,the gardener,1,list1
+10,tranS_intr_10,tranS,intr,Flower,The plants flowered the front yard in vibrant colors.,Where are there now vibrant colors?,the front yard,the park,0,list4
+10,tranS_tran_10,tranS,tran,Flower,The gardener flowered the front yard in vibrant colors.,Where are there now vibrant colors?,the front yard,the park,0,list3
+11,intrS_intr_11,intrS,intr,Grow,The child grew tired and grumpy after a long day of playing.,How did the child end up feeling?,tired,rested,0,list1
+11,intrS_tran_11,intrS,tran,Grow,The farmer grew tired and grumpy after a long day of work in the fields.,How did the farmer end up feeling?,rested,tired,1,list2
+11,tranS_intr_11,tranS,intr,Grow,The child grew soy beans and corn for a school project.,Who grew soy beans and corn?,a child,a farmer,0,list3
+11,tranS_tran_11,tranS,tran,Grow,The farmer grew soy beans and corn as a cash crop.,Who grew soy beans and corn?,a child,a farmer,1,list4
+12,intrS_intr_12,intrS,intr,Halt,The soldiers halted when they spotted the enemy in front of them.,Who did the soldiers spot?,the enemy,the civilians,0,list2
+12,intrS_tran_12,intrS,tran,Halt,The policemen halted when they spotted the suspect in front of them.,Who did the policemen spot?,the victim,the suspect,1,list1
+12,tranS_intr_12,tranS,intr,Halt,The soldiers halted the suspicious car at the checkpoint.,Was the car stopped?,yes,no,0,list4
+12,tranS_tran_12,tranS,tran,Halt,The policemen halted the suspicious car at the checkpoint.,Was the car stopped?,yes,no,0,list3
+13,intrS_intr_13,intrS,intr,Improve,His grades improved after intensive training in useful techniques for studying.,Who took the training?,a student,a tutor,0,list1
+13,intrS_tran_13,intrS,tran,Improve,The tutor improved after intensive training in useful techniques for holding a child’s interest.,Who took the training?,a student,a tutor,1,list2
+13,tranS_intr_13,tranS,intr,Improve,His grades improved his self-image and increased his confidence.,What improved?,grades,self-image,0,list3
+13,tranS_tran_13,tranS,tran,Improve,The tutor improved his self-image and increased his confidence.,What happened to his confidence?,worsened,improved,1,list4
+14,intrS_intr_14,intrS,intr,Shatter,The glass shattered into tiny bits when it hit the floor.,Did the glass break?,no,yes,1,list2
+14,intrS_tran_14,intrS,tran,Shatter,The brick shattered into tiny bits when it hit the floor.,Did the brick break?,yes,no,0,list1
+14,tranS_intr_14,tranS,intr,Shatter,The glass shattered the fragile goblet when they bumped together.,What was broken?,a glass,a goblet,1,list4
+14,tranS_tran_14,tranS,tran,Shatter,The brick shattered the fragile goblet when they bumped together.,What was broken?,a brick,a goblet,1,list3
+15,intrS_intr_15,intrS,intr,Sink,The speedboat sank below the surface but fortunately a tanker was nearby to help.,What sank?,a speedboat,a tanker,0,list1
+15,intrS_tran_15,intrS,tran,Sink,The iceberg sank below the surface but fortunately the tanker managed to avoid it.,What sank?,an iceberg,a tanker,0,list2
+15,tranS_intr_15,tranS,intr,Sink,The speedboat sank the small ship when they collided.,What sank?,speedboat,small ship,1,list3
+15,tranS_tran_15,tranS,tran,Sink,The iceberg sank the small ship when they collided.,What sank?,small ship,iceberb,0,list4
+16,intrS_intr_16,intrS,intr,Splinter,The wooden beam splintered with a loud bang as it struck the concrete floor.,What struck the floor?,metal bar,wooden beam,1,list2
+16,intrS_tran_16,intrS,tran,Splinter,The bullet splintered with a loud bang as it struck the concrete floor.,What struck the floor?,metal bar,bullet,1,list1
+16,tranS_intr_16,tranS,intr,Splinter,The wooden beam splintered his femur as it hit his leg.,What was splintered?,his femur,wooden beam,0,list4
+16,tranS_tran_16,tranS,tran,Splinter,The bullet splintered his femur as it hit his leg.,What was splintered?,his femur,a bullet,0,list3
+17,intrS_intr_17,intrS,intr,Split,The tree split in two pieces as it crashed to the pavement.,What crashed to the pavement?,a building,a tree,1,list1
+17,intrS_tran_17,intrS,tran,Split,The ax split in two pieces as it crashed to the pavement.,What crashed to the pavement?,an ax,a hammer,0,list2
+17,tranS_intr_17,tranS,intr,Split,The tree split the fence rail right in half as it crashed down during a hurricane.,What split in half?,tree,fence,1,list3
+17,tranS_tran_17,tranS,tran,Split,The ax split the fence rail right in half as it crashed down through it.,What split in half?,fence,ax,0,list4
+18,intrS_intr_18,intrS,intr,Wither,The old man withered to nothing after a long and difficult year of sickness.,How long was the sickness?,1 month,1 year,1,list2
+18,intrS_tran_18,intrS,tran,Wither,The drought withered to nothing after a long and difficult year.,How long was the drought?,1 year,1 month,0,list1
+18,tranS_intr_18,tranS,intr,Wither,The old man withered the plants in the garden that he forgot to water.,Who forgot to water the plants?,old man,plumber,0,list4
+18,tranS_tran_18,tranS,tran,Wither,The drought withered the plants in the garden that went weeks without water.,What went weeks without water?,animals,plants,1,list3
+301,gpath_amb_301,gpath,amb,,The large package dropped from the plane hit several tall trees.,Did something fall out of the plane?,Y,N,0,list1
+301,gpath_unamb_301,gpath,unamb,,The large package that was dropped from the plane hit several tall trees.,Did something fall out of the plane?,Y,N,0,list2
+303,gpath_amb_303,gpath,amb,,The aging professors phoned about the midterm were caught off guard.,Were the professors expecting the call?,Y,N,1,list1
+303,gpath_unamb_303,gpath,unamb,,The aging professors who were phoned about the midterm were caught off guard.,Were the professors expecting the call?,Y,N,1,list2
+306,gpath_unamb_306,gpath,unamb,,The eager bartender who was declared the new manager worked till past midnight.,Did the bartender stop working early?,Y,N,1,list1
+306,gpath_amb_306,gpath,amb,,The eager bartender declared the new manager worked till past midnight.,Did the bartender stop working early?,Y,N,1,list2
+312,gpath_unamb_312,gpath,unamb,,The frightened kid who was moved through the crowd got separated from Jane.,Was the kid able to stay with Jane?,Y,N,1,list1
+312,gpath_amb_312,gpath,amb,,The frightened kid moved through the crowd got separated from Jane.,Was the kid able to stay with Jane?,Y,N,1,list2
+314,gpath_amb_314,gpath,amb,,The kitchen staff rushed in the cafeteria soon got very sleepy.,Was the kitchen staff tired?,Y,N,0,list1
+314,gpath_unamb_314,gpath,unamb,,The kitchen staff who was rushed in the cafeteria soon got very sleepy.,Was the kitchen staff tired?,Y,N,0,list2
+316,gpath_amb_316,gpath,amb,,The sleepy volunteers offered the hot soup were glad to sit.,Were the volunteers intentionally not given food?,Y,N,1,list1
+316,gpath_unamb_316,gpath,unamb,,The sleepy volunteers who were offered the hot soup were glad to sit.,Were the volunteers intentionally not given food?,Y,N,1,list2
+321,gpath_unamb_321,gpath,unamb,,The cotton farmers who were told about bad floods had no other crops.,Did the farmers have different crops?,Y,N,1,list1
+321,gpath_amb_321,gpath,amb,,The cotton farmers told about bad floods had no other crops.,Did the farmers have different crops?,Y,N,1,list2
+323,gpath_unamb_323,gpath,unamb,,The brown sparrow who was signalled on a branch pecked at an insect.,Was the sparrow watching an insect?,Y,N,1,list1
+323,gpath_amb_323,gpath,amb,,The brown sparrow signalled on a branch pecked at an insect.,Was the sparrow watching an insect?,Y,N,1,list2
+325,gpath_amb_325,gpath,amb,,Some rescue workers advised about the avalanche decided to stand by.,Did the workers know about the avalanche already?,Y,N,0,list1
+325,gpath_unamb_325,gpath,unamb,,Some rescue workers who were advised about the avalanche decided to stand by.,Did the workers know about the avalanche already?,Y,N,0,list2
+327,gpath_unamb_327,gpath,unamb,,A yellow frisbee that was dangled from the roof landed in the ditch.,Did the frisbee end up in the driveway?,Y,N,1,list1
+327,gpath_amb_327,gpath,amb,,A yellow frisbee dangled from the roof landed in the ditch.,Did the frisbee end up in the driveway?,Y,N,1,list2
+330,gpath_unamb_330,gpath,unamb,,The calico cat who was licked in the alley ran into the street.,Was the cat licked in the street?,Y,N,1,list1
+330,gpath_amb_330,gpath,amb,,The calico cat licked in the alley ran into the street.,Was the cat licked in the street?,Y,N,1,list2
+332,gpath_amb_332,gpath,amb,,The dirty hikers washed in the stream set up their camp.,Did the hikers wash after setting up camp?,Y,N,1,list1
+332,gpath_unamb_332,gpath,unamb,,The dirty hikers who were washed in the stream set up their camp.,Did the hikers wash after setting up camp?,Y,N,1,list2
+334,gpath_amb_334,gpath,amb,,Several angry workers warned about low wages decided to file complaints.,Did the workers take action?,Y,N,0,list1
+334,gpath_unamb_334,gpath,unamb,,Several angry workers who were warned about low wages decided to file complaints.,Did the workers take action?,Y,N,0,list2
+338,gpath_unamb_338,gpath,unamb,,The young cyclist who was coached the new technique became much more competitive.,Did the cyclist's performance get worse?,Y,N,1,list1
+338,gpath_amb_338,gpath,amb,,The young cyclist coached the new technique became much more competitive.,Did the cyclist's performance get worse?,Y,N,1,list2
+340,gpath_amb_340,gpath,amb,,The crooked politician recognized in his office committed numerous serious crimes.,Was the politician a criminal?,Y,N,0,list1
+340,gpath_unamb_340,gpath,unamb,,The crooked politician who was recognized in his office committed numerous serious crimes.,Was the politician a criminal?,Y,N,0,list2
+347,gpath_unamb_347,gpath,unamb,,The overprotective mother who was helped in the office would eventually calm down.,Was the mother upset?,Y,N,0,list1
+347,gpath_amb_347,gpath,amb,,The overprotective mother helped in the office would eventually calm down.,Was the mother upset?,Y,N,0,list2
+350,gpath_amb_350,gpath,amb,,The drunk tourists heard on their balcony were asked to leave.,Did someone ask the tourists to leave?,Y,N,0,list1
+350,gpath_unamb_350,gpath,unamb,,The drunk tourists who were heard on their balcony were asked to leave.,Did someone ask the tourists to leave?,Y,N,0,list2
+352,gpath_unamb_352,gpath,unamb,,The evil genie who was served the golden figs went into a trance.,Did the genie receive figs?,Y,N,0,list1
+352,gpath_amb_352,gpath,amb,,The evil genie served the golden figs went into a trance.,Did the genie receive figs?,Y,N,0,list2
+354,gpath_amb_354,gpath,amb,,The computer programmers guaranteed the hard problem knew what to do.,Were the programmers confused by the problem?,Y,N,1,list1
+354,gpath_unamb_354,gpath,unamb,,The computer programmers who were guaranteed the hard problem knew what to do.,Were the programmers confused by the problem?,Y,N,1,list2
+356,gpath_unamb_356,gpath,unamb,,The young technician who was denied the computer program caught on right away.,Was the technician slow to learn?,Y,N,1,list1
+356,gpath_amb_356,gpath,amb,,The young technician denied the computer program caught on right away.,Was the technician slow to learn?,Y,N,1,list2
+360,gpath_unamb_360,gpath,unamb,,The pawnshop owner who was pushed through the doors got into a fight.,Was there an altercation involving the pawnshop owner?,Y,N,0,list1
+360,gpath_amb_360,gpath,amb,,The pawnshop owner pushed through the doors got into a fight.,Was there an altercation involving the pawnshop owner?,Y,N,0,list2
+362,gpath_amb_362,gpath,amb,,The experienced soldiers asked about the dangers conducted the midnight raid,Did the soldiers have to answer about the dangers?,Y,N,0,list1
+362,gpath_unamb_362,gpath,unamb,,The experienced soldiers who were asked about the dangers conducted the midnight raid,Did the soldiers have to answer about the dangers?,Y,N,0,list2
+365,gpath_unamb_365,gpath,unamb,,The young children who were stopped in the hallway were following the adults,Were the children left alone?,Y,N,1,list1
+365,gpath_amb_365,gpath,amb,,The young children stopped in the hallway were following the adults,Were the children left alone?,Y,N,1,list2
+371,gpath_amb_371,gpath,amb,,Monica's blue pen rested on the desk wound up getting stolen.,Did someone take Monica's pen?,Y,N,0,list1
+371,gpath_unamb_371,gpath,unamb,,Monica's blue pen that was rested on the desk wound up getting stolen.,Did someone take Monica's pen?,Y,N,0,list2
+373,gpath_unamb_373,gpath,unamb,,The thoughtless secretaries who were called on the balcony returned to their desks.,Did the secretaries get called while they were on the balcony?,Y,N,0,list1
+373,gpath_amb_373,gpath,amb,,The thoughtless secretaries called on the balcony returned to their desks.,Did the secretaries get called while they were on the balcony?,Y,N,0,list2
+375,gpath_unamb_375,gpath,unamb,,The sunburned boys who were fed the hot dogs got a stomach ache.,Did the boys give hotdogs to someone?,Y,N,1,list1
+375,gpath_amb_375,gpath,amb,,The sunburned boys fed the hot dogs got a stomach ache.,Did the boys give hotdogs to someone?,Y,N,1,list2
+377,gpath_amb_377,gpath,amb,,The construction equipment sat on the roof fell to the pavement.,Did something fall from the roof?,Y,N,0,list1
+377,gpath_unamb_377,gpath,unamb,,The construction equipment that was sat on the roof fell to the pavement.,Did something fall from the roof?,Y,N,0,list2
+381,gpath_unamb_381,gpath,unamb,,The experienced waitress who was cooked the grilled chicken sent her food back.,Was the waitress dissatisfied with her chicken?,Y,N,0,list1
+381,gpath_amb_381,gpath,amb,,The experienced waitress cooked the grilled chicken sent her food back.,Was the waitress dissatisfied with her chicken?,Y,N,0,list2
+384,gpath_unamb_384,gpath,unamb,,The nervous wrestler who was hurried through the stands hadn't seen his opponent.,Was the wrestler moved towards the ring?,Y,N,0,list1
+384,gpath_amb_384,gpath,amb,,The nervous wrestler hurried through the stands hadn't seen his opponent.,Was the wrestler moved towards the ring?,Y,N,0,list2
+386,gpath_amb_386,gpath,amb,,The six volunteers taught the complicated procedure became very good students.,Did the volunteers do poorly in school?,Y,N,1,list1
+386,gpath_unamb_386,gpath,unamb,,The six volunteers who were taught the complicated procedure became very good students.,Did the volunteers do poorly in school?,Y,N,1,list2
+392,gpath_amb_392,gpath,amb,,The Indian children scrubbed in the stream splashed and shouted loudly.,Were the children noisy?,Y,N,0,list1
+392,gpath_unamb_392,gpath,unamb,,The Indian children who were scrubbed in the stream splashed and shouted loudly.,Were the children noisy?,Y,N,0,list2
+395,gpath_amb_395,gpath,amb,,The experienced chef assured about the stove burnt his hand anyway.,Was the chef unaware of the stove?,Y,N,1,list1
+395,gpath_unamb_395,gpath,unamb,,The experienced chef who was assured about the stove burnt his hand anyway.,Was the chef unaware of the stove?,Y,N,1,list2
+398,gpath_unamb_398,gpath,unamb,,The hippie children who were rinsed in the river were later taken berry-picking.,Did the children get to pick berries?,Y,N,0,list1
+398,gpath_amb_398,gpath,amb,,The hippie children rinsed in the river were later taken berry-picking.,Did the children get to pick berries?,Y,N,0,list2
+400,gpath_amb_400,gpath,amb,,The hyper puppy watched at the kennel played with a ball.,Was the puppy docile?,Y,N,1,list1
+400,gpath_unamb_400,gpath,unamb,,The hyper puppy who was watched at the kennel played with a ball.,Was the puppy docile?,Y,N,1,list2
+402,gpath_unamb_402,gpath,unamb,,The alert soldiers who were unloaded from the helicopter found their target quickly.,Did the soldiers get out of the helicopter?,Y,N,0,list1
+402,gpath_amb_402,gpath,amb,,The alert soldiers unloaded from the helicopter found their target quickly.,Did the soldiers get out of the helicopter?,Y,N,0,list2
+405,gpath_amb_405,gpath,amb,,The hospital patient bathed in his room read the newspaper constantly.,Did the patient read all the time?,Y,N,0,list1
+405,gpath_unamb_405,gpath,unamb,,The hospital patient who was bathed in his room read the newspaper constantly.,Did the patient read all the time?,Y,N,0,list2
+407,gpath_amb_407,gpath,amb,,The silly boys remembered during the play quickly left the auditorium.,Had the boys been forgotten?,Y,N,1,list1
+407,gpath_unamb_407,gpath,unamb,,The silly boys who were remembered during the play quickly left the auditorium.,Had the boys been forgotten?,Y,N,1,list2
+410,gpath_unamb_410,gpath,unamb,,The teenage girls who were begged in the hallway answered the principal rudely.,Did the girls act polite towards the principal?,Y,N,1,list1
+410,gpath_amb_410,gpath,amb,,The teenage girls begged in the hallway answered the principal rudely.,Did the girls act polite towards the principal?,Y,N,1,list2
+414,gpath_amb_414,gpath,amb,,The grad students cheated during their exams left to go home.,Did the grad students go home?,Y,N,0,list1
+414,gpath_unamb_414,gpath,unamb,,The grad students who were cheated during their exams left to go home.,Did the grad students go home?,Y,N,0,list2
+416,gpath_unamb_416,gpath,unamb,,An impatient shopper who was shoved through the doors complained to the manager.,Did the shopper walk calmly through the doors?,Y,N,1,list1
+416,gpath_amb_416,gpath,amb,,An impatient shopper shoved through the doors complained to the manager.,Did the shopper walk calmly through the doors?,Y,N,1,list2
+301,gpath_amb_301,gpath,amb,,The large package dropped from the plane hit several tall trees.,Did something fall out of the plane?,Y,N,0,list3
+301,gpath_unamb_301,gpath,unamb,,The large package that was dropped from the plane hit several tall trees.,Did something fall out of the plane?,Y,N,0,list4
+303,gpath_amb_303,gpath,amb,,The aging professors phoned about the midterm were caught off guard.,Were the professors expecting the call?,Y,N,1,list3
+303,gpath_unamb_303,gpath,unamb,,The aging professors who were phoned about the midterm were caught off guard.,Were the professors expecting the call?,Y,N,1,list4
+306,gpath_unamb_306,gpath,unamb,,The eager bartender who was declared the new manager worked till past midnight.,Did the bartender stop working early?,Y,N,1,list3
+306,gpath_amb_306,gpath,amb,,The eager bartender declared the new manager worked till past midnight.,Did the bartender stop working early?,Y,N,1,list4
+312,gpath_unamb_312,gpath,unamb,,The frightened kid who was moved through the crowd got separated from Jane.,Was the kid able to stay with Jane?,Y,N,1,list3
+312,gpath_amb_312,gpath,amb,,The frightened kid moved through the crowd got separated from Jane.,Was the kid able to stay with Jane?,Y,N,1,list4
+314,gpath_amb_314,gpath,amb,,The kitchen staff rushed in the cafeteria soon got very sleepy.,Was the kitchen staff tired?,Y,N,0,list3
+314,gpath_unamb_314,gpath,unamb,,The kitchen staff who was rushed in the cafeteria soon got very sleepy.,Was the kitchen staff tired?,Y,N,0,list4
+316,gpath_amb_316,gpath,amb,,The sleepy volunteers offered the hot soup were glad to sit.,Were the volunteers intentionally not given food?,Y,N,1,list3
+316,gpath_unamb_316,gpath,unamb,,The sleepy volunteers who were offered the hot soup were glad to sit.,Were the volunteers intentionally not given food?,Y,N,1,list4
+321,gpath_unamb_321,gpath,unamb,,The cotton farmers who were told about bad floods had no other crops.,Did the farmers have different crops?,Y,N,1,list3
+321,gpath_amb_321,gpath,amb,,The cotton farmers told about bad floods had no other crops.,Did the farmers have different crops?,Y,N,1,list4
+323,gpath_unamb_323,gpath,unamb,,The brown sparrow who was signalled on a branch pecked at an insect.,Was the sparrow watching an insect?,Y,N,1,list3
+323,gpath_amb_323,gpath,amb,,The brown sparrow signalled on a branch pecked at an insect.,Was the sparrow watching an insect?,Y,N,1,list4
+325,gpath_amb_325,gpath,amb,,Some rescue workers advised about the avalanche decided to stand by.,Did the workers know about the avalanche already?,Y,N,0,list3
+325,gpath_unamb_325,gpath,unamb,,Some rescue workers who were advised about the avalanche decided to stand by.,Did the workers know about the avalanche already?,Y,N,0,list4
+327,gpath_unamb_327,gpath,unamb,,A yellow frisbee that was dangled from the roof landed in the ditch.,Did the frisbee end up in the driveway?,Y,N,1,list3
+327,gpath_amb_327,gpath,amb,,A yellow frisbee dangled from the roof landed in the ditch.,Did the frisbee end up in the driveway?,Y,N,1,list4
+330,gpath_unamb_330,gpath,unamb,,The calico cat who was licked in the alley ran into the street.,Was the cat licked in the street?,Y,N,1,list3
+330,gpath_amb_330,gpath,amb,,The calico cat licked in the alley ran into the street.,Was the cat licked in the street?,Y,N,1,list4
+332,gpath_amb_332,gpath,amb,,The dirty hikers washed in the stream set up their camp.,Did the hikers wash after setting up camp?,Y,N,1,list3
+332,gpath_unamb_332,gpath,unamb,,The dirty hikers who were washed in the stream set up their camp.,Did the hikers wash after setting up camp?,Y,N,1,list4
+334,gpath_amb_334,gpath,amb,,Several angry workers warned about low wages decided to file complaints.,Did the workers take action?,Y,N,0,list3
+334,gpath_unamb_334,gpath,unamb,,Several angry workers who were warned about low wages decided to file complaints.,Did the workers take action?,Y,N,0,list4
+338,gpath_unamb_338,gpath,unamb,,The young cyclist who was coached the new technique became much more competitive.,Did the cyclist's performance get worse?,Y,N,1,list3
+338,gpath_amb_338,gpath,amb,,The young cyclist coached the new technique became much more competitive.,Did the cyclist's performance get worse?,Y,N,1,list4
+340,gpath_amb_340,gpath,amb,,The crooked politician recognized in his office committed numerous serious crimes.,Was the politician a criminal?,Y,N,0,list3
+340,gpath_unamb_340,gpath,unamb,,The crooked politician who was recognized in his office committed numerous serious crimes.,Was the politician a criminal?,Y,N,0,list4
+347,gpath_unamb_347,gpath,unamb,,The overprotective mother who was helped in the office would eventually calm down.,Was the mother upset?,Y,N,0,list3
+347,gpath_amb_347,gpath,amb,,The overprotective mother helped in the office would eventually calm down.,Was the mother upset?,Y,N,0,list4
+350,gpath_amb_350,gpath,amb,,The drunk tourists heard on their balcony were asked to leave.,Did someone ask the tourists to leave?,Y,N,0,list3
+350,gpath_unamb_350,gpath,unamb,,The drunk tourists who were heard on their balcony were asked to leave.,Did someone ask the tourists to leave?,Y,N,0,list4
+352,gpath_unamb_352,gpath,unamb,,The evil genie who was served the golden figs went into a trance.,Did the genie receive figs?,Y,N,0,list3
+352,gpath_amb_352,gpath,amb,,The evil genie served the golden figs went into a trance.,Did the genie receive figs?,Y,N,0,list4
+354,gpath_amb_354,gpath,amb,,The computer programmers guaranteed the hard problem knew what to do.,Were the programmers confused by the problem?,Y,N,1,list3
+354,gpath_unamb_354,gpath,unamb,,The computer programmers who were guaranteed the hard problem knew what to do.,Were the programmers confused by the problem?,Y,N,1,list4
+356,gpath_unamb_356,gpath,unamb,,The young technician who was denied the computer program caught on right away.,Was the technician slow to learn?,Y,N,1,list3
+356,gpath_amb_356,gpath,amb,,The young technician denied the computer program caught on right away.,Was the technician slow to learn?,Y,N,1,list4
+360,gpath_unamb_360,gpath,unamb,,The pawnshop owner who was pushed through the doors got into a fight.,Was there an altercation involving the pawnshop owner?,Y,N,0,list3
+360,gpath_amb_360,gpath,amb,,The pawnshop owner pushed through the doors got into a fight.,Was there an altercation involving the pawnshop owner?,Y,N,0,list4
+362,gpath_amb_362,gpath,amb,,The experienced soldiers asked about the dangers conducted the midnight raid,Did the soldiers have to answer about the dangers?,Y,N,0,list3
+362,gpath_unamb_362,gpath,unamb,,The experienced soldiers who were asked about the dangers conducted the midnight raid,Did the soldiers have to answer about the dangers?,Y,N,0,list4
+365,gpath_unamb_365,gpath,unamb,,The young children who were stopped in the hallway were following the adults,Were the children left alone?,Y,N,1,list3
+365,gpath_amb_365,gpath,amb,,The young children stopped in the hallway were following the adults,Were the children left alone?,Y,N,1,list4
+371,gpath_amb_371,gpath,amb,,Monica's blue pen rested on the desk wound up getting stolen.,Did someone take Monica's pen?,Y,N,0,list3
+371,gpath_unamb_371,gpath,unamb,,Monica's blue pen that was rested on the desk wound up getting stolen.,Did someone take Monica's pen?,Y,N,0,list4
+373,gpath_unamb_373,gpath,unamb,,The thoughtless secretaries who were called on the balcony returned to their desks.,Did the secretaries get called while they were on the balcony?,Y,N,0,list3
+373,gpath_amb_373,gpath,amb,,The thoughtless secretaries called on the balcony returned to their desks.,Did the secretaries get called while they were on the balcony?,Y,N,0,list4
+375,gpath_unamb_375,gpath,unamb,,The sunburned boys who were fed the hot dogs got a stomach ache.,Did the boys give hotdogs to someone?,Y,N,1,list3
+375,gpath_amb_375,gpath,amb,,The sunburned boys fed the hot dogs got a stomach ache.,Did the boys give hotdogs to someone?,Y,N,1,list4
+377,gpath_amb_377,gpath,amb,,The construction equipment sat on the roof fell to the pavement.,Did something fall from the roof?,Y,N,0,list3
+377,gpath_unamb_377,gpath,unamb,,The construction equipment that was sat on the roof fell to the pavement.,Did something fall from the roof?,Y,N,0,list4
+381,gpath_unamb_381,gpath,unamb,,The experienced waitress who was cooked the grilled chicken sent her food back.,Was the waitress dissatisfied with her chicken?,Y,N,0,list3
+381,gpath_amb_381,gpath,amb,,The experienced waitress cooked the grilled chicken sent her food back.,Was the waitress dissatisfied with her chicken?,Y,N,0,list4
+384,gpath_unamb_384,gpath,unamb,,The nervous wrestler who was hurried through the stands hadn't seen his opponent.,Was the wrestler moved towards the ring?,Y,N,0,list3
+384,gpath_amb_384,gpath,amb,,The nervous wrestler hurried through the stands hadn't seen his opponent.,Was the wrestler moved towards the ring?,Y,N,0,list4
+386,gpath_amb_386,gpath,amb,,The six volunteers taught the complicated procedure became very good students.,Did the volunteers do poorly in school?,Y,N,1,list3
+386,gpath_unamb_386,gpath,unamb,,The six volunteers who were taught the complicated procedure became very good students.,Did the volunteers do poorly in school?,Y,N,1,list4
+392,gpath_amb_392,gpath,amb,,The Indian children scrubbed in the stream splashed and shouted loudly.,Were the children noisy?,Y,N,0,list3
+392,gpath_unamb_392,gpath,unamb,,The Indian children who were scrubbed in the stream splashed and shouted loudly.,Were the children noisy?,Y,N,0,list4
+395,gpath_amb_395,gpath,amb,,The experienced chef assured about the stove burnt his hand anyway.,Was the chef unaware of the stove?,Y,N,1,list3
+395,gpath_unamb_395,gpath,unamb,,The experienced chef who was assured about the stove burnt his hand anyway.,Was the chef unaware of the stove?,Y,N,1,list4
+398,gpath_unamb_398,gpath,unamb,,The hippie children who were rinsed in the river were later taken berry-picking.,Did the children get to pick berries?,Y,N,0,list3
+398,gpath_amb_398,gpath,amb,,The hippie children rinsed in the river were later taken berry-picking.,Did the children get to pick berries?,Y,N,0,list4
+400,gpath_amb_400,gpath,amb,,The hyper puppy watched at the kennel played with a ball.,Was the puppy docile?,Y,N,1,list3
+400,gpath_unamb_400,gpath,unamb,,The hyper puppy who was watched at the kennel played with a ball.,Was the puppy docile?,Y,N,1,list4
+402,gpath_unamb_402,gpath,unamb,,The alert soldiers who were unloaded from the helicopter found their target quickly.,Did the soldiers get out of the helicopter?,Y,N,0,list3
+402,gpath_amb_402,gpath,amb,,The alert soldiers unloaded from the helicopter found their target quickly.,Did the soldiers get out of the helicopter?,Y,N,0,list4
+405,gpath_amb_405,gpath,amb,,The hospital patient bathed in his room read the newspaper constantly.,Did the patient read all the time?,Y,N,0,list3
+405,gpath_unamb_405,gpath,unamb,,The hospital patient who was bathed in his room read the newspaper constantly.,Did the patient read all the time?,Y,N,0,list4
+407,gpath_amb_407,gpath,amb,,The silly boys remembered during the play quickly left the auditorium.,Had the boys been forgotten?,Y,N,1,list3
+407,gpath_unamb_407,gpath,unamb,,The silly boys who were remembered during the play quickly left the auditorium.,Had the boys been forgotten?,Y,N,1,list4
+410,gpath_unamb_410,gpath,unamb,,The teenage girls who were begged in the hallway answered the principal rudely.,Did the girls act polite towards the principal?,Y,N,1,list3
+410,gpath_amb_410,gpath,amb,,The teenage girls begged in the hallway answered the principal rudely.,Did the girls act polite towards the principal?,Y,N,1,list4
+414,gpath_amb_414,gpath,amb,,The grad students cheated during their exams left to go home.,Did the grad students go home?,Y,N,0,list3
+414,gpath_unamb_414,gpath,unamb,,The grad students who were cheated during their exams left to go home.,Did the grad students go home?,Y,N,0,list4
+416,gpath_unamb_416,gpath,unamb,,An impatient shopper who was shoved through the doors complained to the manager.,Did the shopper walk calmly through the doors?,Y,N,1,list3
+416,gpath_amb_416,gpath,amb,,An impatient shopper shoved through the doors complained to the manager.,Did the shopper walk calmly through the doors?,Y,N,1,list4
