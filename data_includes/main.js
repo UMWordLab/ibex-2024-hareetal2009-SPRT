@@ -1,6 +1,5 @@
 PennController.ResetPrefix(null);
 //DebugOff();
-
  
 var shuffleSequence = seq("consent", "IDentry", "demo", "intro",
                             "startpractice",
@@ -11,7 +10,7 @@ var shuffleSequence = seq("consent", "IDentry", "demo", "intro",
                             "starter",
 
                             // trials named _dummy_ will be excluded by following:
-                            sepWith("sep", randomize(anyOf("experiment")),
+                            sepWith("sep", randomize(anyOf("experiment"))),
 
                             "sendresults",
                             "completion"
@@ -223,7 +222,6 @@ newTrial("demo",
            )
 )
  
-
 var items = [
  
    ["setcounter", "__SetCounter__", { }],
@@ -236,18 +234,18 @@ var items = [
 
    ["seppractice", "Separator", {transfer: 1000, normalMessage: "Correct response! Please wait for the next sentence.", errorMessage: "Incorrect response."}],
 
-["startpractice", Message, {consentRequired: false,
-   html: ["div",
-          ["p", "First you can do twenty warm-up sentences to get used to the method and answering the comprehension questions."]
-         ]}],
- 
-["starter", Message, {consentRequired: false,
-   html: ["div",
-          ["p", "Time to start the main portion of the experiment!"]
-         ]}],
-        
- 
-["completion", "Form", {continueMessage: null, html: { include: "completion.html" } } ]
+   ["startpractice", Message, {consentRequired: false,
+    html: ["div",
+            ["p", "First you can do twenty warm-up sentences to get used to the method and answering the comprehension questions."]
+            ]}],
+    
+   ["starter", Message, {consentRequired: false,
+    html: ["div",
+            ["p", "Time to start the main portion of the experiment!"]
+            ]}],
+            
+    
+   ["completion", "Form", {continueMessage: null, html: { include: "completion.html" } } ]
  
 ];
 
