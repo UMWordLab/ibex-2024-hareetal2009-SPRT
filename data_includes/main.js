@@ -12,8 +12,9 @@ var shuffleSequence = seq("consent", "IDentry", "demo", "intro",
 
                             // trials named _dummy_ will be excluded by following:
                             sepWith("sep", randomize(anyOf(
-                                startsWith("chow"),
-                                startsWith("kutas")
+                                startsWith("intr"),
+                                startsWith("tran"),
+                                startsWith("gpath")
                                 ))),
 
                             "sendresults",
@@ -139,8 +140,46 @@ function modifyRunningOrder(ro) {
     return new_ro;
   }
  
+  Template("practice.csv", row => {
+
+    items.push(
+        [[row.label, row.item] , "PennController", newTrial(
+            newController("DashedSentenceAlt", {s: row.sentence})
+                .print()
+                .log()
+                .wait()
+                .remove(),
  
-Template("experiment.csv", row => {
+             row.comprehension_question ? 
+             newController("QuestionAlt", { 
+                                       as: [["f", row.answerchoice0], ["j",row.answerchoice1]],
+                                       // Needs to be cast as Num or else controller won't work
+                                       // is expecting a Number
+                                       hasCorrect: Number(row.correct_response),
+                                       q: row.comprehension_question,
+                                       randomOrder: false,
+                                       presentHorizontally: true,
+                                       timeout: 20000
+             })
+                 .print()
+                 .log()
+                 .wait()
+                :null   
+         )
+        .log("counter", __counter_value_from_server__)
+        .log("label", row.label)
+        .log("stimitem", row.item)
+        .log("cond1", row.cond1)
+        .log("cond2", row.cond2)
+        .log("cond3", row.cond3)
+        .log("correct_response", row.correct_response)
+        .log("group", row.group)
+        ]
+    );
+    return newTrial('_dummy_',null);
+ })
+
+Template("hareetal_stims.csv", row => {
 
    items.push(
        [[row.label, row.item] , "PennController", newTrial(
@@ -168,7 +207,10 @@ Template("experiment.csv", row => {
         )
        .log("counter", __counter_value_from_server__)
        .log("label", row.label)
-       .log("latinitem", row.item)
+       .log("stimitem", row.item)
+       .log("cond1", row.cond1)
+       .log("cond2", row.cond2)
+       .log("cond3", row.cond3)
        .log("correct_response", row.correct_response)
        .log("group", row.group)
        ]
@@ -213,43 +255,6 @@ var items = [
           ["p", "First you can do three practice sentences."]
          ]}],
  
-["practice", "DashedSentenceAlt", {s:"The carpenter ordered food from the restaurant."},
-            "QuestionAlt",  
-            {as: [["f", "A restaurant"], ["j","A store"]],
-            hasCorrect: 0,
-            q: "Where did a carpenter get food from?",
-            randomOrder: false,
-            presentHorizontally: true}
-],
-
-["practice", "DashedSentenceAlt", {s:"The man from the newspaper despised pencils."},
-            "QuestionAlt",  
-            {as: [["f", "Pencils"], ["j","Newspapers"]],
-            hasCorrect: 0,
-            q: "What did a man despise?",
-            randomOrder: false,
-            presentHorizontally: true}
-
-],
-  
-["practice","DashedSentenceAlt", {s:"The babysitter scolded the forgetful children."},
-            "QuestionAlt",{  
-            as: [["f", "A dad"], ["j","A babysitter"]],
-            hasCorrect: 1,
-            q: "Who scolded the children?",
-            randomOrder: false,
-            presentHorizontally: true}
-],
-
-["practice","DashedSentenceAlt", {s:"None of the zookeepers saw the tiger escape from its enclosure."},
-            "QuestionAlt",{  
-            as: [["f", "A lion"], ["j","A tiger"]],
-            hasCorrect: 1,
-            q: "What animal escaped?",
-            randomOrder: false,
-            presentHorizontally: true}
-],
- 
 ["starter", Message, {consentRequired: false,
    html: ["div",
           ["p", "Time to start the main portion of the experiment!"]
@@ -259,9 +264,4 @@ var items = [
 ["completion", "Form", {continueMessage: null, html: { include: "completion.html" } } ]
  
 ];
-
-
-
-
-
 
