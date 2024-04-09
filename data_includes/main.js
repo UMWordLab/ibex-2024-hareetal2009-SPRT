@@ -2,7 +2,9 @@ PennController.ResetPrefix(null);
 DebugOff();
  
 var shuffleSequence = seq(//"consent", 
-                            "IDentry", "demo", "intro",
+                            "setup", 
+                            //"demo",
+                             "intro",
                             "startpractice",
                                             
                             sepWith("seppractice", "practice"),
